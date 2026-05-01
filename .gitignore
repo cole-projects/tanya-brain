@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Obsidian
+.obsidian/
+.trash/
+*.canvas
+
+# Images (not readable by Claude on Railway)
+*.jpg
+*.jpeg
+*.png
+*.heic
+*.webp
+*.gif
