@@ -50,7 +50,7 @@ type: client-profile
 *Based on core wounds. Use ONLY the wikilinks below — do not invent framework names or create new wikilinks. Every link must point to a file that exists in the vault.*
 
 - **Not Worthy:** [[01-Frameworks/FutureYou/FutureYou on Self Worth Presentation|Self worth work]], [[01-Frameworks/Belief Excavation|Belief excavation]], [[01-Frameworks/FYF/FYF The Born Identity|Born identity]]
-- **Not Safe:** [[01-Frameworks/Coherence Protocol|Coherence]], [[01-Frameworks/Nervous System Regulation|Nervous system work]], [[01-Frameworks/Alignment Formula|Alignment formula]]
+- **Not Safe:** [[01-Frameworks/Coherence Protocol|Coherence]], [[01-Frameworks/Alignment Formula|Alignment formula]], [[01-Frameworks/Scaffolding vs Bypassing|Scaffolding vs bypassing]]
 
 ---
 
