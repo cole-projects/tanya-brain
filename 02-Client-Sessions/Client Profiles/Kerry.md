@@ -59,8 +59,6 @@ type: client-profile
 - [[01-Frameworks/Alignment|Alignment work]] (noticing what's in her control vs. what's already working itself out)
 - [[01-Frameworks/Coherence Protocol|Vibrational matching]] (bringing calm to situations rather than panic)
 - [[01-Frameworks/Expectations|Generous assumptions]] (about family members and situations)
-- [[01-Frameworks/FutureYou/FutureYou The After State|FutureYou perspective]] (what would Future Kerry do here?)
-- [[01-Frameworks/FYF/FYF Desire Excavation|Desire excavation]] (real desire vs. desire from lack)
 - [[01-Frameworks/FutureYou/FutureYou Anchoring|Timeline work]] (seeing progress over time, not just chasing the endpoint)
 
 ---
@@ -116,7 +114,7 @@ type: client-profile
 ## BecomingYou Phase
 *See [[01-Frameworks/BecomingYou]] for phase definitions and tools.*
 - **Current phase:** Alignment (cycling between Alignment and Allowing in relationships; back to Awareness/Alignment on money)
-- **Phase history:** Entered in Circumstance/Contrast (family stress, control patterns) → Awareness (saw control as safety mechanism) → Alignment (pause practice, generous assumptions, vibrational matching) → Allowing (relationships, ease, Disney breakthrough) → Circumstance/Contrast again on money goal → back to Awareness/Alignment on that specific area
+- **Phase history:** Circumstance/Contrast (family stress, control) → Awareness (control as safety) → Alignment (pause practice, generous assumptions) → Allowing (relationships, Disney breakthrough) → back to Awareness/Alignment specifically on money
 
 ---
 

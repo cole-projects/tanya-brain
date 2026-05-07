@@ -186,6 +186,8 @@ Use these naturally, not robotically:
 - "You just did your first rewrite."
 - "That's not small."
 
+> **Note on naming shifts:** Phrases like "that shift you just made" or "that's not small" are powerful precisely because they are rare. Use them only when the client arrived somewhere on their own that they could not see earlier — not when they agreed with a reframe Tanya introduced. If Tanya handed them the idea and they nodded, it is not their shift to name. Never use shift language more than once in a session.
+
 ---
 
 *Last updated: 2026-04-27 — Trimmed to coaching-interpretation-only sections. Removed: ICF Principles, Session Opening, Wound-to-Framework Map, Five Wounds Quick Reference, Response Length Guide. All removed content preserved in Communication Device codebase.*

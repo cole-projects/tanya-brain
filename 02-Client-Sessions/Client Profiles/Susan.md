@@ -41,7 +41,8 @@ type: client-profile
 - Looking outside herself for validation before making decisions
 - Performance anxiety in new situations, especially with visibility
 - Nervous system activation when facing potential judgment
-- Getting caught between competing obligations and pressures
+- Getting caught between competing obligations and external expectations
+- Weighing the nervous system cost of meeting others' expectations
 
 ---
 
@@ -60,6 +61,7 @@ type: client-profile
 - Future casting work (connecting with inner knowing)
 - Self-worth exploration through future visioning
 - Nervous system awareness and regulation
+- Distinguishing between capacity ("I can handle this") and choice ("I want to handle this")
 
 ---
 
@@ -70,6 +72,7 @@ type: client-profile
 - Successfully shifting from external validation to self-validation, improving relationships
 - Moving from defensive swirl to accepting "what is" in real-time during session
 - Recognizing the difference between knowing she'll handle something and the cost of stress
+- Major distinction between "I think I'm enough as a person" and "I don't want to invest my energy/nervous system in this" - separating self-worth from choice about energy investment
 
 ---
 
@@ -77,8 +80,8 @@ type: client-profile
 *What hasn't fully resolved yet — important for next session.*
 
 - Managing performance anxiety in high-stakes situations
-- Preparing for challenging tasks without nervous system activation
-- Breaking the pattern of white-knuckling through stressful situations
+- Navigating expectation mismatches with others without compromising her nervous system
+- Practical strategies for protecting energy while maintaining relationships
 
 ---
 
@@ -92,6 +95,8 @@ type: client-profile
 - "White-knuckle"
 - "The isness"
 - "Nervous system going crazy"
+- "Invest my energy and my nervous system"
+- "Protecting myself"
 
 ---
 
@@ -104,28 +109,29 @@ type: client-profile
 - Slowing down and naming what's actually happening
 - Distinguishing between circumstances and the stories about them
 - Being called into "what is" vs drama
+- Having important distinctions reflected back (capacity vs choice, worth vs energy investment)
 
 ---
 
 ## Where They Are in Their Journey
 *Early / Mid / Deep — and a one-line summary of their current edge.*
 
-Early-Mid — Learning to navigate high-pressure situations without sacrificing her nervous system while maintaining self-trust.
+Mid — Learning to honor her own energy and nervous system needs while navigating external expectations, with solid self-worth foundation established.
 
 ---
 
 ## BecomingYou Phase
 *Where the client currently sits in the transformation cycle. See [[01-Frameworks/BecomingYou]] for phase definitions and tools. Use only these exact labels: **Circumstance/Contrast**, **Awareness**, **Alignment**, **Action**, **Allowing**. Update every session.*
 
-- **Current phase:** Alignment
-- **Phase history:** Session 2: Awareness (recognizing validation-seeking pattern), Session 3: Alignment (moving into accepting "what is" and finding ease)
+- **Current phase:** Action
+- **Phase history:** Awareness (validation-seeking pattern) → Alignment (accepting "what is," finding ease) → Action (conscious choices about energy investment based on values)
 
 ---
 
 ## Emotional Baseline
 *General emotional state, updated each session. Used to notice trends over time.*
 
-- Session 3: Started anxious and pressured, shifted to relief and acceptance; showing more capacity to self-regulate in real-time
+- Session 6: Protective and discerning; showing strong boundaries around nervous system health; speaking from a place of self-worth rather than self-doubt
 
 ---
 
@@ -136,15 +142,16 @@ Early-Mid — Learning to navigate high-pressure situations without sacrificing 
 - Direct questioning about what she already knows inside
 - Naming and externalizing the pressure/anxiety
 - Moving into "what is" vs story-making
+- Distinguishing between capacity and choice in decision-making
 
 ---
 
 ## Focus for Next Session
 *Brief notes so the next session starts with momentum.*
 
-- Explore tools for preparing without nervous system activation
-- Practice accepting high-pressure situations as neutral circumstances
-- Build capacity for performing from joy rather than anxiety
+- Explore practical approaches for expectation conversations
+- Develop strategies for maintaining nervous system protection while staying in relationship
+- Build on the capacity vs choice distinction for future decisions
 
 ---
 
@@ -153,7 +160,8 @@ Early-Mid — Learning to navigate high-pressure situations without sacrificing 
 |---|---|---|
 | 2026-04-30 | Inner knowing vs external validation | [[02-Client-Sessions/Susan/Session 2|Session 2]] |
 | 2026-04-30 | Performance anxiety to accepting isness | [[02-Client-Sessions/Susan/Session 3|Session 3]] |
+| 2026-05-06 | Self-worth vs energy investment choice | [[02-Client-Sessions/Susan/Session 6|Session 6]] |
 
 ---
 
-*Last updated: 2026-04-30*
+*Last updated: 2026-05-06*

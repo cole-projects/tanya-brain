@@ -38,7 +38,10 @@ type: client-profile
 ## Recurring Patterns
 *What keeps coming up session after session.*
 
-- Spin cycle thinking, autopilot/numbness as protection, trying to solve everything alone, fear of being vulnerable with husband due to past weaponization, protecting peace by not sharing real suffering
+- Spin cycle thinking that pulls her away from the present
+- Autopilot/numbness as protection from feeling
+- Trying to solve a two-person problem entirely alone
+- Fear of vulnerability with husband due to past weaponization — protecting peace by not sharing real suffering
 
 ---
 
@@ -82,14 +85,25 @@ type: client-profile
 ## Their Language
 *Words and phrases they use that Tanya mirrors back.*
 
-- "Spin cycle," "autopilot," "clinging to the past," "precious moments," "insurmountable," "weaponizes vulnerabilities," "keeping the peace," "retaliation and torment"
+- "Spin cycle"
+- "Autopilot"
+- "Clinging to the past"
+- "Precious moments"
+- "Insurmountable"
+- "Weaponizes vulnerabilities"
+- "Keeping the peace"
+- "Retaliation and torment"
 
 ---
 
 ## What They Respond Well To
 *Coaching moves that land for this client.*
 
-- Validation before any exploration, naming the impossible positions she's in, not trying to fix the sadness but staying open to other possibilities, very small steps and permission-giving, reflecting her own wisdom back to her
+- Validation before any exploration
+- Naming the impossible positions she's in
+- Not trying to fix the sadness — staying open to other possibilities
+- Very small steps and explicit permission-giving
+- Reflecting her own wisdom back to her
 
 ---
 

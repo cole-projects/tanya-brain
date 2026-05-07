@@ -52,7 +52,6 @@ type: client-profile
 ---
 
 ## Frameworks Used
-- [[01-Frameworks/FutureYou/FutureYou SEE|Rewrites]] (learning — tends to overthink)
 - [[01-Frameworks/Alignment|Circumstance vs. thoughts about circumstance]]
 - The 51% concept (tip the scales slightly, don't need perfection)
 - [[01-Frameworks/Frequency choices|Empowered decision-making]] (asking for what he wants — both managers said yes)
@@ -108,7 +107,7 @@ type: client-profile
 ## BecomingYou Phase
 *See [[01-Frameworks/BecomingYou]] for phase definitions and tools.*
 - **Current phase:** Action moving into Allowing (taking empowered steps, but Allowing is the edge — trusting others to handle what's not his)
-- **Phase history:** Circumstance/Contrast (job transition anxiety, visa stress) → Awareness (saw perfectionism as control, not care) → Alignment (51% concept, pause before conversations) → Action (got the job, asked both managers, Diana's visa approved) → working toward Allowing
+- **Phase history:** Circumstance/Contrast (job transition, visa stress) → Awareness (perfectionism as control) → Alignment (51% concept, pause before conversations) → Action (got the job, visa approved) → working toward Allowing
 
 ---
 

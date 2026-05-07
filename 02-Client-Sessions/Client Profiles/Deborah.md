@@ -47,11 +47,9 @@ type: client-profile
 - Mind vs body split - her body trusts but her mind spirals with anxiety
 - Knowing truth intellectually but struggling to embody it consistently
 - Fear that good things won't last - "this is all there is" mentality
-- Chest tightness when scarcity thoughts arise
 - Getting what she wants but then worrying it's not "enough"
 - Fighting with herself about how she "should" feel about situations
 - Feeling sick/resistant when having to make choices that feel like stepping backward
-- Needing to perform gratitude instead of allowing authentic feelings
 
 ---
 
@@ -73,7 +71,6 @@ type: client-profile
 - [[01-Frameworks/Belief Excavation]] - Distinguishing between protective beliefs and truth
 - Inner compass work - using body's "delicious" feeling as guidance system
 - Both/and thinking - holding conflicting emotions without forcing resolution
-- Permission-giving for authentic feelings while still taking loving action
 
 ---
 
@@ -98,9 +95,7 @@ type: client-profile
 *What hasn't fully resolved yet — important for next session.*
 
 - Bridging the gap between intellectual knowing and embodied trust of universal support
-- Pattern of scanning for threat when money starts flowing after scarcity
-- Nervous system catching up to what mind knows about being supported
-- Fully trusting the flow instead of bracing against good things
+- Nervous system scanning for threat when money starts flowing — bracing against good things
 - Ego expectations about where she "should be" versus current reality needs
 
 ---
@@ -112,16 +107,16 @@ type: client-profile
 - "Honoring my truth"
 - "Being ungrateful to the Universe"
 - "Things are meant to feel good"
-- Mind vs body split language
 - "This is all there is"
-- "Delicious" (for body knowing of support)
-- "High flying disc" (Abraham Hicks language)
+- "Delicious" (body knowing of support)
+- "High flying disc" (Abraham Hicks)
 - "More and more and more is coming"
 - "It's just where I am right now"
 - "More will be revealed"
 - "I'm just getting started"
 - "The universe is working for me"
 - Permission to feel "pissy"
+- "Chest tightness" (physical cue for scarcity thoughts)
 
 ---
 
@@ -131,14 +126,13 @@ type: client-profile
 - Questions that help her find her own answers rather than being told
 - Distinguishing between mind stories and body wisdom
 - Energy/frequency language resonates deeply
-- Permission-giving statements
-- Reflecting back her own wisdom to her
+- Permission-giving statements (including permission to feel conflicted emotions)
+- Reflecting back her own wisdom and real-time shifts to her
 - Reality checking with actual evidence vs. fearful projections
-- Connecting patterns across sessions (worthiness and support wounds)
-- Validating conflicted feelings without trying to fix them
 - Both/and language that allows contradictory emotions
 - Normalizing resistance and difficult feelings as human
-- Mirroring back her shifts in real time ("that smile tells me something relaxed")
+- Connecting patterns across sessions (worthiness and support wounds)
+- Flexibility with session length and format based on her energy
 
 ---
 
@@ -153,34 +147,25 @@ Mid — Learning to sustain trust in universal support and her own worth when go
 *Where the client currently sits in the transformation cycle. See [[01-Frameworks/BecomingYou]] for phase definitions and tools. Use only these exact labels: **Circumstance/Contrast**, **Awareness**, **Alignment**, **Action**, **Allowing**. Update every session.*
 
 - **Current phase:** Alignment
-- **Phase history:** Circumstance/Contrast (compensation decision) → Awareness (recognizing patterns) → Alignment (body knowing "delicious" support, choosing "more is coming" vs. "this is all there is", discovering both/and emotional permission)
+- **Phase history:** Circumstance/Contrast (compensation decision) → Awareness (recognizing patterns) → Alignment (body knowing "delicious" support, both/and emotional permission)
 
 ---
 
 ## Emotional Baseline
 *General emotional state, updated each session. Used to notice trends over time.*
 
-- Moved from sick feeling to excitement within one session
-- Strong body wisdom ("delicious" support feeling) that she's learning to trust over mental spirals
-- Growing comfort with holding conflicted emotions without forcing resolution
-- "More will be revealed" trust and "I'm just getting started" possibility energy
-- Relief from not having to perform perfect feelings about difficult situations
+- Session 9: Engaging from practical daily life context; maintaining boundaries around session format and timing; adapting to logistics while staying in relationship with the work.
 
 ---
 
 ## Tools That Have Landed
 *Specific tools (breathwork, rewriting, future casting, etc.) that have actually resonated with this client.*
 
-- 3 minutes of quiet with breath to drop into body knowing of support
-- Energy awareness before important conversations
-- Gratitude rants to honor the flow
-- Abraham Hicks reels for quick resets
-- Reality checking: "my needs have always been met so far"
-- Celebrating real wins and progress as evidence
-- Using "delicious" body feeling as inner compass
-- Reminding herself what happens when she gets on "high flying disc"
 - Both/and permission: "I can feel pissy AND grateful"
-- "It's just where I am right now" for temporary perspective
+- Using "delicious" body feeling as inner compass
+- Reality checking: "my needs have always been met so far"
+- Abraham Hicks reels for quick resets
+- 3 minutes of quiet with breath to drop into body knowing of support
 - "More will be revealed" for trust in unfolding process
 
 ---
@@ -188,22 +173,23 @@ Mid — Learning to sustain trust in universal support and her own worth when go
 ## Focus for Next Session
 *Brief notes so the next session starts with momentum.*
 
-- Check in on how the both/and permission is working in daily life
-- Explore deepening "I'm just getting started" energy vs ego expectations
-- Support integration of conflicted feelings as normal rather than problems to solve
-- Continue building bridge between intellectual knowing and embodied trust
-- Notice how "more will be revealed" trust shows up in other areas
+- Address how to maintain body wisdom connection during busy, practical life periods
+- Explore what it means to trust the flow when money is actually coming in
+- Work on the ego "where I should be" story and what it's protecting her from
+- Continue both/and permission — feeling the contraction without it meaning scarcity
 
 ---
 
 ## Sessions
 | Date | Key Theme | File |
 |---|---|---|
-| 2026-04-26 | Brief greeting session opening | [[02-Client-Sessions/Deborah/Session 3\|Session 3]] |
+| 2026-04-26 | none | none |
 | 2026-04-26 | Worth, energy, and universal trust | [[02-Client-Sessions/Deborah/Session 4\|Session 4]] |
 | 2026-04-27 | Sustaining trust when money flows | [[02-Client-Sessions/Deborah/Session 6\|Session 6]] |
 | 2026-04-27 | Permission for conflicted feelings breakthrough | [[02-Client-Sessions/Deborah/Session 7\|Session 7]] |
+| 2026-05-02 | Brief check in session | [[02-Client-Sessions/Deborah/Session 8\|Session 8]] |
+| 2026-05-02 | Logistics and session format boundaries | [[02-Client-Sessions/Deborah/Session 9\|Session 9]] |
 
 ---
 
-*Last updated: 2026-04-27*
+*Last updated: 2026-05-02*

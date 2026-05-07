@@ -75,8 +75,7 @@ type: client-profile
 ## Their Language
 *Words and phrases they use that Tanya mirrors back.*
 
-- "product vision"
-- Brief, direct communication style
+- Insufficient data — crisis intervention prevented language pattern capture
 
 ---
 

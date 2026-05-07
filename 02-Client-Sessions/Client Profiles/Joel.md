@@ -111,7 +111,7 @@ type: client-profile
 ## BecomingYou Phase
 *See [[01-Frameworks/BecomingYou]] for phase definitions and tools.*
 - **Current phase:** Awareness moving into Alignment (understands the mechanics intellectually, still inconsistent in applying them)
-- **Phase history:** Circumstance/Contrast (divorce, identity loss, relocation) → 7 months of solo emotional/body work → Awareness (sees belief → thought → feeling → action chain) → early Alignment (learning rewrites, neural pathway work — tends to overthink the tools)
+- **Phase history:** Circumstance/Contrast (divorce, identity loss, relocation) → 7 months solo body work → Awareness (belief-thought-feeling-action chain) → early Alignment (rewrites, neural pathway work — tends to overthink)
 
 ---
 

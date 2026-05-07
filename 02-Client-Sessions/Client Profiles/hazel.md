@@ -82,11 +82,9 @@ type: client-profile
 ## Their Language
 *Words and phrases they use that Tanya mirrors back.*
 
-- "LOL" when acknowledging patterns
-- "sum" instead of "some" 
-- "most efficient" 
-- "so so very hungry"
-- Excited caps: "YOGURT BOWL!"
+- "Most efficient"
+- "So so very hungry"
+- "YOGURT BOWL!" (excited caps energy — match her enthusiasm)
 
 ---
 

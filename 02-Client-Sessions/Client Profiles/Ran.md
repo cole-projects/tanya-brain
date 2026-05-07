@@ -77,9 +77,8 @@ type: client-profile
 *Words and phrases they use that Tanya mirrors back.*
 
 - "Manifest"
-- "Be on it" 
+- "Be on it"
 - "Affordably"
-- Already claiming Miami energy with "arvani305"
 
 ---
 
@@ -103,7 +102,7 @@ Early - Has the vision and strategy but needs to build the self-trust muscle for
 *Where the client currently sits in the transformation cycle. See [[01-Frameworks/BecomingYou]] for phase definitions and tools. Use only these exact labels: **Circumstance/Contrast**, **Awareness**, **Alignment**, **Action**, **Allowing**. Update every session.*
 
 - **Current phase:** Awareness
-- **Phase history:** Awareness (2026-04-26) - identified the gap between knowing and doing
+- **Phase history:** Circumstance/Contrast (Miami goal, inconsistent execution) → early Awareness (identified the gap between knowing and doing)
 
 ---
 

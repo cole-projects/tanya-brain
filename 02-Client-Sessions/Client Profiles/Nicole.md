@@ -57,9 +57,7 @@ type: client-profile
 - [[01-Frameworks/Dips and Sips|Dip protocol]] — prefers "soul stretch" framing over "dip"
 - [[01-Frameworks/FutureYou/FutureYou EASE|EASE framework]] (Evoke awareness, Anchor identity, See the scene, Engage field)
 - Energy alignment check questions (Does this feel delicious? Would I choose this if I never needed credit?)
-- [[01-Frameworks/FutureYou/FutureYou Quantum Healing|Quantum healing journal]] (8-step personal manifesto on healing)
 - [[01-Frameworks/Belief Excavation|Belief excavation]] (where she bought into beliefs about responsibility and unworthiness)
-- [[01-Frameworks/Negative manifestations|Buffering vs. manifesting distinction]]
 
 ---
 
@@ -109,7 +107,7 @@ type: client-profile
 ## BecomingYou Phase
 *See [[01-Frameworks/BecomingYou]] for phase definitions and tools.*
 - **Current phase:** Alignment (cycling toward Allowing — strong in tools, still bridging the gap between knowing and being)
-- **Phase history:** Circumstance/Contrast (ups and downs, overwhelm) → Awareness (saw "to-do list energy work" pattern, recognized borrowed formulas) → Alignment (rewrites, future casting, soul stretch) → reaching toward Allowing but keeps getting pulled back to Alignment when embodiment breaks down
+- **Phase history:** Circumstance/Contrast (ups/downs, overwhelm) → Awareness (to-do list energy work, borrowed formulas) → Alignment (rewrites, soul stretch) → reaching Allowing but pulled back to Alignment when embodiment breaks down
 
 ---
 

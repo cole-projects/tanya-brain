@@ -61,6 +61,42 @@ This vault — the **Tanya Brain** — is her living knowledge base. It contains
 
 ---
 
+## Client Profile Curation Rules
+
+The profile is a living snapshot, not a running log. Session files hold the full record. The profile holds only what is most useful for the next session. These rules govern what gets kept, updated, or removed after every session.
+
+**Sessions table** — Keep the most significant sessions: those where genuine breakthroughs occurred, major patterns were first identified, or important frameworks were introduced. Do not automatically keep the most recent sessions — keep the most valuable ones. Skip sessions that were too short to produce coaching content. When a session is too short to have a key theme, write `none` in each column rather than leaving the row blank.
+
+**Recurring Patterns** — Keep the 6 most coaching-relevant patterns. Before adding a new one, check whether it is a variation of something already listed and consolidate instead. Remove only what has genuinely resolved. Never remove an active pattern just to make room for a new one.
+
+**Key Breakthroughs** — No cap. Keep every genuine shift the client generated on their own. The bar: the client arrived somewhere they could not see at the start of the session, in their own words, without Tanya handing it to them. Do not log a client agreeing with a reframe Tanya introduced.
+
+**Their Language** — Keep the 15 most characteristic and recurring phrases. Remove one-offs that have not reappeared across multiple sessions. Prioritize phrases that keep coming back over phrases that appeared once and were interesting.
+
+**What They Respond Well To** — Keep the 10 most impactful coaching moves. Consolidate similar items before cutting anything. Prioritize moves that have landed in multiple sessions over one-time observations.
+
+**Tools That Have Landed** — Keep the 6 most relevant. Tools that clearly resonated in recent sessions take priority over tools that were introduced early but have not been referenced since.
+
+**Frameworks Used** — Keep the 6 most relevant frameworks actually introduced and used in sessions. Remove frameworks that were mentioned once but never revisited or built upon. Prioritize frameworks the client has actively worked with over ones briefly named.
+
+**Session Framework Routing** — This section is tied directly to Core Wound and almost never changes. Update it only if the Core Wound is updated. Never add new wound types or framework links here speculatively — only what is grounded in the client's actual wound profile.
+
+**Archived Sessions** — Same quality standard as the Sessions table. Only archive sessions that had genuine coaching value. Sessions too short to have a key theme should be written as `| none | none | none |` rather than being removed.
+
+**Sections that replace entirely each session — never append:**
+- Still Stuck On
+- Focus for Next Session
+- Where They Are in Their Journey
+- BecomingYou Phase (current phase + one-line phase history only)
+- Emotional Baseline (most recent session only)
+
+**Sections that almost never change:**
+- Core Wound (update only if fundamentally rethought after many sessions of new evidence)
+- What They Came In With
+- The Deeper Issue
+
+---
+
 ## Vault Structure
 
 | Folder | Purpose |

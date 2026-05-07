@@ -114,12 +114,11 @@ type: client-profile
 ## BecomingYou Phase
 *See [[01-Frameworks/BecomingYou]] for phase definitions and tools.*
 - **Current phase:** Awareness
-- **Phase history:** Circumstance/Contrast (not going to gym despite wanting to) → beginning Awareness (recognizing "lazy" is a story, not truth)
+- **Phase history:** Circumstance/Contrast (gym avoidance despite wanting to go) → early Awareness ("lazy" is a story, not truth)
 
 ---
 
 ## Emotional Baseline
-- Session 1: Heavy self-judgment, some openness. Shifted to "empowered" by end of session.
 - Session 2: Minimal engagement, brief connection only
 
 ---
@@ -142,7 +141,7 @@ type: client-profile
 | Date | Key Theme | File |
 |---|---|---|
 | 2026-04-12 | From "lazy" story to empowered action | [[02-Client-Sessions/John/Session 1\|Session 1]] |
-| 2026-04-30 | Minimal engagement, brief reconnection attempt | [[02-Client-Sessions/John/Session 2\|Session 2]] |
+| 2026-04-30 | none | none |
 
 ---
 

@@ -45,11 +45,9 @@ type: client-profile
 - Feeling "trapped" and "stuck" when multiple priorities compete
 - All-or-nothing thinking (having to "start over completely")
 - Emotional eating as comfort when facing setbacks
-- Wanting to control outcomes for others (getting people to stop using drugs) rather than focusing on what they can actually influence
-- Moving toward helping/creating positive change when reminded of their actual power
-- Feeling "useless" when unable to control important outcomes (justice, legal cases)
-- Creating stress around manageable tasks when carrying bigger uncontrollables
-- Seeking support through friends and music during overwhelming times
+- Wanting to control outcomes for others rather than focusing on what they can actually influence
+- Feeling "useless" when unable to control important outcomes — and letting that bleed into stress around manageable tasks
+- Moving toward helping and positive change when reminded of their actual power
 
 ---
 
@@ -84,21 +82,24 @@ type: client-profile
 
 - All-or-nothing thinking about creative work ("can't be remade")
 - Using food as primary emotional regulation
-- Feeling powerless when setbacks happen
-- Session ended abruptly when exploring deeper vision for cultural change — may need more support to stay with bigger questions
-- Feeling "useless" when unable to control important outcomes like justice/legal cases
-- Creating unnecessary stress around manageable tasks when already carrying uncontrollables
-- May have unclear expectations about what preparation actually involves (said set prep "takes a while" but then clarified they don't usually prep)
+- Feeling "useless" when unable to control important outcomes (legal case, justice) — and that powerlessness bleeding into manageable tasks
+- Needing more support to stay with bigger questions about cultural change and purpose
 
 ---
 
 ## Their Language
 *Words and phrases they use that Tanya mirrors back.*
 
-- "trapped," "stuck," "start over," "can't be remade," "ice cream makes me happy"
-- "drug problem," "safer spaces," "the culture"
-- "overwhelming," "useless," "dealing with the unknown," "get justice"
-- "what if I don't finish it in time," "it takes a while to prepare"
+- "Trapped"
+- "Stuck"
+- "Start over"
+- "Can't be remade"
+- "Ice cream makes me happy"
+- "Safer spaces"
+- "Useless"
+- "Get justice"
+- "Overwhelming"
+- "What if I don't finish it in time"
 
 ---
 
@@ -125,14 +126,12 @@ Early — Learning that being stuck doesn't mean being powerless, and discoverin
 ## BecomingYou Phase
 *See [[01-Frameworks/BecomingYou]] for phase definitions and tools.*
 - **Current phase:** Awareness (seeing patterns around control/powerlessness, beginning to distinguish between what can and can't be controlled, noticing how uncontrollable situations create stress around manageable ones)
-- **Phase history:** Circumstance/Contrast (lost music work, community drug problem, legal case seeking justice) → early Awareness (recognized they can work on DJ set while waiting, shifted from "fix others" to "create safer spaces," starting to see timeline pressure patterns)
+- **Phase history:** Circumstance/Contrast (lost music work, drug problem, legal case) → early Awareness (can act while waiting, "safer spaces" over fixing others, timeline pressure patterns)
 
 ---
 
 ## Emotional Baseline
-- Session 1: Overwhelmed, paralyzed. Shifted to calmer and more directed by end.
-- Session 2: Concerned about community, wanting to help but feeling powerless.
-- Session 4: Good week but emotionally overwhelming due to legal case and unknown outcomes, feeling "useless" about lack of control over justice, adding stress to manageable music deadlines
+- Session 4: Good week overall but emotionally overwhelmed by legal case — feeling "useless" about lack of control over justice, adding stress to manageable music deadlines
 
 ---
 

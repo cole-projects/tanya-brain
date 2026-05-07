@@ -91,8 +91,8 @@ type: client-profile
 - "Stagnant"
 - "Nothing to write home about"
 - "Blank slate"
-- "I don't know"
 - "Abandon my family"
+- "I should surpass that system"
 
 ---
 
@@ -117,7 +117,7 @@ Early - Just beginning to see that their lack of motivation stems from a protect
 *Where the client currently sits in the transformation cycle. See [[01-Frameworks/BecomingYou]] for phase definitions and tools. Use only these exact labels: **Circumstance/Contrast**, **Awareness**, **Alignment**, **Action**, **Allowing**. Update every session.*
 
 - **Current phase:** Awareness
-- **Phase history:** Starting awareness phase - recognizing protective patterns and core beliefs
+- **Phase history:** Circumstance/Contrast (stagnation, going through motions) → beginning Awareness (protective system blocking desires, shame around choosing self)
 
 ---
 

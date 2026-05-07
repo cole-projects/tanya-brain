@@ -61,7 +61,6 @@ type: client-profile
 - [[01-Frameworks/FutureYou/FutureYou Upper Limits|Imposter syndrome prep]] (Aaliyah's work — *"the devil near the door"*)
 - [[01-Frameworks/FutureYou/FutureYou The After State|FutureYou reframe]] (what would Future Brooke say to scared current Brooke?)
 - [[01-Frameworks/Belief Excavation|Belief excavation]] (catching the scarcity thought without shaming it)
-- No shame + celebrate awareness (*"good intel, not a problem"*)
 
 ---
 
@@ -113,7 +112,7 @@ type: client-profile
 ## BecomingYou Phase
 *See [[01-Frameworks/BecomingYou]] for phase definitions and tools.*
 - **Current phase:** Alignment (oscillating between Alignment and Awareness — catches the scarcity thought but hasn't fully stabilized yet)
-- **Phase history:** Circumstance/Contrast (nonprofit not paying her, money stress) → Awareness (recognizing scarcity narration, imposter syndrome) → Alignment (old train/new train, stabilization before optimization) → pulls back to Awareness/Contrast when scarcity loop activates
+- **Phase history:** Circumstance/Contrast (nonprofit money stress) → Awareness (scarcity narration, imposter syndrome) → Alignment (old train/new train, stabilize before optimize) → pulls back to Awareness when scarcity loop fires
 
 ---
 
