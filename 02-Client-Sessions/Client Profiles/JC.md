@@ -38,7 +38,7 @@ type: client-profile
 ## Recurring Patterns
 *What keeps coming up session after session.*
 
-- 
+- Deep immersion in work when aligned with his passion - loses track of time when building/creating
 
 ---
 
@@ -64,6 +64,7 @@ type: client-profile
 - Recognized his pride in building something his coach mother says is "better than her own coaching"
 - Shifted from "will people buy this?" to "how do I find people who already need this?"
 - Identified rave community as natural target market where he already has relationships
+- Experiencing deep flow and alignment with his work - 10+ hour days that feel energizing rather than draining
 
 ---
 
@@ -82,6 +83,8 @@ type: client-profile
 - "More intentional" (when describing needed marketing approach)
 - "What the fuck they actually have to do work" (realizing shortcuts don't exist)
 - "I feel insanely proud of myself" (when acknowledging mother's validation)
+- "I really moved the needle" (describing productive work sessions)
+- "I love this and I love that it's coming along so quick" (about his project momentum)
 
 ---
 
@@ -91,28 +94,29 @@ type: client-profile
 - Direct reflection of his internal conflict
 - Highlighting concrete evidence of his product's effectiveness
 - Reframing questions (shifting from "will people buy" to "where are the people who need this")
+- Acknowledgment of his alignment and flow states
 
 ---
 
 ## Where They Are in Their Journey
 *Early / Mid / Deep — and a one-line summary of their current edge.*
 
-Early — Moving from self-doubt about product value to strategic thinking about finding his market
+Early — Moving from self-doubt to momentum and flow, building confidence through consistent aligned action
 
 ---
 
 ## BecomingYou Phase
 *Where the client currently sits in the transformation cycle. See [[01-Frameworks/BecomingYou]] for phase definitions and tools. Use only these exact labels: **Circumstance/Contrast**, **Awareness**, **Alignment**, **Action**, **Allowing**. Update every session.*
 
-- **Current phase:** Awareness
-- **Phase history:** First session - became aware that his doubt isn't about product quality but about market validation
+- **Current phase:** Action
+- **Phase history:** Session 1 (Awareness) - became aware that his doubt isn't about product quality but about market validation; Session 2 (Action) - deep flow state with 10+ hour work day, moving the needle on his project
 
 ---
 
 ## Emotional Baseline
 *General emotional state, updated each session. Used to notice trends over time.*
 
-Excited but anxious - passionate about his creation but uncertain about market reception, moving from frustration about failed strategy to cautious optimism about new approach
+Energized and aligned - experiencing deep satisfaction from extended work sessions, feeling momentum and love for his project, ready for rest after productive effort
 
 ---
 
@@ -121,15 +125,16 @@ Excited but anxious - passionate about his creation but uncertain about market r
 
 - Reframing questions to shift perspective
 - Using concrete evidence to counter self-doubt
+- Recognition and validation of flow states
 
 ---
 
 ## Focus for Next Session
 *Brief notes so the next session starts with momentum.*
 
-- Develop landing page messaging for rave community
-- Address the 20% doubt about authentic vs. polite feedback
-- Create concrete action plan for May 21st launch using DJ network
+- Explore how to sustain this momentum and alignment
+- Address any remaining doubts about market reception
+- Continue building on the productive energy and flow states
 
 ---
 
@@ -137,7 +142,8 @@ Excited but anxious - passionate about his creation but uncertain about market r
 | Date | Key Theme | File |
 |---|---|---|
 | 2026-05-07 | Strategy pivot reveals self-worth doubts | [[02-Client-Sessions/JC/Session 1|Session 1]] |
+| 2026-05-14 | Deep flow state and momentum | [[02-Client-Sessions/JC/Session 2|Session 2]] |
 
 ---
 
-*Last updated: 2026-05-07*
+*Last updated: 2026-05-14*
