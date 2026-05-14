@@ -245,6 +245,7 @@ The goal is for the client to build their own map over time. Each interjected co
 - [[Expectations]]
 - [[Dips and Sips]]
 - [[Ubiquitous Assimilation]]
+- [[Core-Program/Week-1-Circumstance-vs-Thought|Week 1 — Circumstance vs. Thought]]
 
 ### Capacity 2 — Awareness
 - [[4 step reset]]
@@ -254,6 +255,8 @@ The goal is for the client to build their own map over time. Each interjected co
 - [[Emotions vs Feelings]]
 - [[Power Reclamation (Franks question)]]
 - [[FYF/FYF Energy Check]]
+- [[Core-Program/Week-2-Catch-Call-Choose|Week 2 — Catch, Call Out, Choose Again]]
+- [[Core-Program/Week-7-Belief-Formation|Week 7 — Belief Formation]]
 
 ### Capacity 3A — Emotional Holding
 - [[Scaffolding vs Bypassing]]
@@ -263,6 +266,7 @@ The goal is for the client to build their own map over time. Each interjected co
 - [[Dips and Sips]]
 - [[Neutrality and Wholness]]
 - [[Patience Embodiment_]]
+- [[Core-Program/Week-4-Emotional-Holding|Week 4 — Emotional Holding]]
 
 ### Capacity 3B — Regulation
 - [[The Alignment Arc]]
@@ -273,6 +277,7 @@ The goal is for the client to build their own map over time. Each interjected co
 - [[Dips and Sips]]
 - [[Frequency choices]]
 - [[Patience Embodiment_]]
+- [[Core-Program/Week-5-Regulation-Stabilization|Week 5 — Regulation & Stabilization]]
 
 ### Capacity 3C — Re-orientation
 - [[Future casting vs Rewriting]]
@@ -288,6 +293,8 @@ The goal is for the client to build their own map over time. Each interjected co
 - [[FYF/FYF Desire Excavation]]
 - [[FYF/FYF Moments of Me2.0]]
 - [[FutureYou/FutureYou Past Cast]]
+- [[Core-Program/Week-3-Bypassing-vs-Rewriting|Week 3 — Bypassing vs. Rewriting]]
+- [[Core-Program/Week-6-Integration|Week 6 — Integration]]
 
 ### Capacity 4 — Inspired Action
 - [[Alignment Formula]]

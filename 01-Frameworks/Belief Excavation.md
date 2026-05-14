@@ -170,3 +170,5 @@ When I read my new truths, I feel a lightness in my chest. The exhaustion starts
 - [[FutureYou/FutureYou Upper Limits]]
 - [[4 step reset]]
 - [[BecomingYou]]
+- [[Core-Program/Week-7-Belief-Formation|Week 7 — Belief Formation]]
+- [[Core-Program/Week-2-Catch-Call-Choose|Week 2 — Catch, Call Out, Choose Again]]

@@ -144,7 +144,7 @@ A client texts a dedicated iMessage phone number. The message arrives via an iMe
 
 ## The Brain
 
-The brain is an Obsidian vault containing Tanya's coaching frameworks (including BecomingYou), session notes, client profiles, wound tracking, and her methodology. It is stored as local markdown files on a Railway persistent volume. It syncs to a private GitHub repo for backup and to keep the local Obsidian copy in sync.
+The brain is an Obsidian vault containing Tanya's coaching frameworks (including BecomingYou), session notes, client profiles, wound tracking, and her methodology. It is stored as local markdown files on a Railway persistent volume. Sync to Railway is not yet set up — no GitHub repo is used for tanya_brain.
 
 ## The Voice
 
@@ -195,7 +195,7 @@ The bot runs on Telegram locally — fully functional, multi-user async, follow-
 **Phase 2 — Infrastructure Migration**
 - Telegram to iMessage — swap transport layer, chat_id becomes phone number
 - Deploy to Railway — 24/7 persistent server
-- Vault sync to Railway — GitHub repo as backup, persistent volume as runtime
+- Vault sync to Railway — persistent volume as runtime (no GitHub repo for tanya_brain, sync not yet set up)
 - Verify + live-test follow-up engine in webhook architecture
 
 **Phase 3 — Product & Experience**

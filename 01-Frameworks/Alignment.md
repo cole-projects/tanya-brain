@@ -237,3 +237,7 @@ If it's devotion — even with trembling hands — that's alignment.
 - [[Origin]]
 - [[Yin Yang]]
 - [[Frequency choices]]
+- [[Core-Program/Week-3-Bypassing-vs-Rewriting|Week 3 — Bypassing vs. Rewriting]]
+- [[Core-Program/Week-4-Emotional-Holding|Week 4 — Emotional Holding]]
+- [[Core-Program/Week-5-Regulation-Stabilization|Week 5 — Regulation & Stabilization]]
+- [[Core-Program/Week-6-Integration|Week 6 — Integration]]

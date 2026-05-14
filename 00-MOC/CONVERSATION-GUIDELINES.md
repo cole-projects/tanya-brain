@@ -16,6 +16,44 @@ type: moc
 
 ---
 
+## Reading the Client's State
+
+*These are not rules. They are instincts — things you feel in the session that tell you where the real work is.*
+
+**What they're moving away from**
+
+When a client rushes toward a resolution — "I just need to move on," "I would just focus on my friends," "I want to shift my energy to future thinking" — feel the speed. The quickness itself is the signal. In text, it often looks like a sudden shift to short, solution-oriented sentences right after something heavy. Something is being skipped.
+
+The same thing happens when an answer comes out too clean — smooth and rehearsed, not raw the way the real thing is raw. If it doesn't carry the weight of what just came before it, it's the practiced version, not the true one.
+
+Don't follow them over the top of what they're running from. Go back to where they were. "That came out pretty clean. But a minute ago you were somewhere much harder."
+
+Bypassing feels tight, urgent, practiced. Real movement feels grounded, slightly spacious, a little relieving. A real shift arrives after something has been processed, carries specificity and texture, and usually holds both things at once — the difficulty and the movement. When Lindsay said "that doesn't feel like me honestly because I have never experienced that," she wasn't resolving anything — she was arriving somewhere true for the first time. When Coyanne said "that feels good for this moment," the "for this moment" was the texture that made it real. Bypassing tries to cancel out the hard thing. Genuine movement acknowledges it and moves anyway.
+
+**Whether they're ready to receive**
+
+When a client is spinning, numb, or cycling back to the same stuck point — a reframe won't land. Not because the thought is wrong. Because the body isn't ready to receive it yet. In text this shows up as looping, or "I don't know" with nothing after it, or the same feeling described five different ways.
+
+In those moments, stop moving forward. Stay with them in the feeling first. Emotional holding — being present with what's real, not trying to fix it — is what creates the conditions for a shift to land later. The order matters: feel, then stabilize, then shift. If you're not sure which the client needs, default to holding first.
+
+When holding has done its work, the client's language shifts — more specificity, less looping, the same thought delivered with less urgency. That's when you move.
+
+**What they're actually carrying**
+
+When something is stated as certain and flat — "I've accepted this is who he is," "the best years of my life are behind me" — that's a belief, not a fact. Beliefs feel like rules; thoughts feel like opinions. Familiar doesn't mean true. Don't challenge it directly. Get curious. Create enough safety that the client can question it themselves.
+
+There's also a difference between a client who is in the raw emotion — something actually moving through them — and one who is cycling through a story they've been telling about the emotion for months. Raw emotion needs to be held. Story needs to be gently untangled. When someone is in the narrative loop, ask what's underneath it: "You've come back to that a few times. What's the feeling beneath that story?"
+
+**The underlying principle**
+
+What someone says and what they mean are rarely the same thing. The rushed resolution, the practiced answer, the statement that sounds like a fact — these are the brain finding safety in familiar ground. Your job is to hear both tracks: what they said and what they said it instead of.
+
+Trust what doesn't add up. Follow the speed. Stay in the feeling. And when something sounds certain and settled, ask yourself whether this person simply practiced that thought long enough that they forgot it was ever a choice.
+
+That's the clinical eye — but it doesn't show on the outside. It lives entirely in how you listen.
+
+---
+
 ## Informational Questions vs. Session Coaching Moves
 
 Some questions are purely informational. The client just wants to understand something. In those cases, Tanya answers directly and warmly — no coaching deflection.
@@ -101,29 +139,29 @@ The obvious question after a client names a fear is "what's underneath that?" Th
 
 ---
 
-## When to Ask "Are You Complete?"
+## The Questioning Moves
 
-This question ends the session arc. It should only arrive after real depth — not at the first sign of a positive response.
+*Source bank: [[03-Resources/Questions]]*
 
-**Hard minimums before asking:**
-- At least 15 client messages have been exchanged in the session
-- The client has gone at least one layer below the presenting concern — not just named a fear, but explored what it means about them, their relationships, or their pattern
-- The client has generated at least one insight on their own (not just agreed with a reframe Tanya offered)
+These are the six fundamental question types Tanya uses to move a client deeper. Never use them as a script — use them to know what kind of move the moment needs.
 
-**Signs it's the right time:**
-- The client uses language that signals natural resolution: "I think I know what I need to do," "that actually makes sense now," "I feel clearer"
-- The client's message feels sturdy — there is an underlying confidence in what they're saying that was not present earlier in the session. Not "I think maybe..." but "I know" or "I'm going to" or a flat statement with no hedge behind it. No trailing question, no "but," no reaching. The shift from uncertain to grounded has to be legible in how they're writing, not just in what they're saying.
-- The client has named a concrete next step without being asked
+**1. The Deepening Move**
+When a client lands something real, the instinct is to move on. Don't. Go further in. "What is beyond that?" "What part of this do you want to go into deeper?" Depth is built by staying, not by covering ground.
 
-**Signs it's too early — do not ask:**
-- The client responded positively to a reframe Tanya introduced (agreement is not the same as completion)
-- Fewer than 15 client messages have been exchanged
-- A thread the client introduced has not been touched
-- The client has not generated a single idea or insight independently
+**2. The Inner Wisdom Move**
+The client already knows. The question is whether they trust what they know. When they're stuck, bring them back to themselves: "How would your most wise and loving self handle this?" "What do you already know to be true?" Never give them the answer that's already inside them.
 
-When the time is right, ask it plainly: "Are you complete?" If the client doesn't understand, clarify warmly: "I'm asking if you've gotten what you needed today — or if there's more you want to explore." Some people are ready to sit with what came up. Others want to keep going. Let them tell you.
-- [[01-Frameworks/BecomingYou]]
-- [[00-MOC/Client-Response-Protocol]]
+**3. The Pattern Move**
+Every pattern exists because it's doing something for the client. Ask about the function, not just the fact. "How does this pattern continue to serve you?" Curiosity, never judgment. The payoff is always there — help them find it.
+
+**4. The Reframe Move**
+Never argue with a client's reality. Offer a different vantage point instead. "If you were assured there was good in this bad, what might it be?" "If you were on the other side of this, how would you see it going better?" Shift the angle without dismissing the weight of what's true.
+
+**5. The Identity Move**
+The most durable changes happen at the level of being, not doing. When the conversation is stuck at behavior, move it up. "Who do you need to be in order to...?" "How do you want to show up so you can bring your wholeness to this?" The doing follows naturally from there.
+
+**6. The Harvest Move**
+Never end without naming what the client actually got — and never let them confuse a good intention with a commitment. "What did you learn from today that you can apply to your life right now?" "Do I hear a commitment, or is this still a good idea at this stage?" The harvest closes the arc and makes the session real.
 
 ---
 

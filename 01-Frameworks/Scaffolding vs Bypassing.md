@@ -155,3 +155,5 @@ If you've made peace, then even a corrective act can be sacred refinement. And t
 - [[FutureYou/FutureYou Scaffolding]]
 - [[BecomingYou]]
 - [[Suicide De-escalation Framework]]
+- [[Core-Program/Week-3-Bypassing-vs-Rewriting|Week 3 — Bypassing vs. Rewriting]]
+- [[Core-Program/Week-7-Belief-Formation|Week 7 — Belief Formation]]

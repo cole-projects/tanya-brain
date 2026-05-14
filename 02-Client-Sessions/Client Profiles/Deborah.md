@@ -15,9 +15,9 @@ type: client-profile
 
 *Primary and Secondary must use only these exact labels: **Not Worthy**, **Not Enough**, **Not Supported**, **Not Powerful**, **Not Safe**. Do not invent custom wound names.*
 
-- **Primary:** Not Supported
-- **Secondary:** Not Worthy (around deserving good things)
-- **Belief underneath:** "This is all there is - nothing else is coming." Fear that good things can't be sustained. "People like me don't get to keep having good things."
+- **Primary:** Not Worthy
+- **Secondary:** Not Enough  
+- **Belief underneath:** "I'm behind and not as good as other coaches." Fear that she won't have enough energy/time to build the business while working a job. "This is all there is - nothing else is coming." "People like me don't get to keep having good things." Core body shame - "fat me is unattractive me" and "our body is so much, it is what everyone sees every day." Belief that worth is tied to appearance and performance.
 
 ---
 
@@ -32,12 +32,14 @@ type: client-profile
 ## The Deeper Issue
 *What's really underneath the surface problem.*
 
-- Trust issues with universal support - intellectually knows it but struggles to embody it consistently
+- Core unworthiness wound manifesting through body shame and appearance anxiety
+- Daily mirror moments creating self-abandonment cycles - accessing joy/intelligence until seeing reflection
+- Belief that body is "what everyone sees" and takes up "too much space"
+- Comparison wounds - measuring progress against other coaches and feeling behind
+- Trust issues with universal support and timing - intellectually knows it but struggles to embody it consistently
 - Pattern of scanning for threat even when things are going well
 - Self-worth blocks around deserving sustained abundance
-- Nervous system hasn't caught up to what her mind understands about being supported
-- Internal conflict between where ego thinks she "should be" and current reality needs
-- Trying to force positive feelings instead of allowing conflicted emotions
+- Fear that temporary practical choices (like taking a job) will derail bigger vision permanently
 
 ---
 
@@ -45,11 +47,13 @@ type: client-profile
 *What keeps coming up session after session.*
 
 - Mind vs body split - her body trusts but her mind spirals with anxiety
-- Knowing truth intellectually but struggling to embody it consistently
+- Daily self-abandonment cycle: accessing confidence/joy until mirror moment undoes it all
+- Automatic scanning for what's wrong (body rolls, face fat, "behind" in business)
+- Ego timeline pressure - "should be further along by now"
+- All-or-nothing thinking about temporary situations becoming permanent
 - Fear that good things won't last - "this is all there is" mentality
-- Getting what she wants but then worrying it's not "enough"
+- Exhaustion from splitting energy between survival needs and vision building
 - Fighting with herself about how she "should" feel about situations
-- Feeling sick/resistant when having to make choices that feel like stepping backward
 
 ---
 
@@ -57,20 +61,22 @@ type: client-profile
 
 *Based on core wounds — cross-reference with Frameworks Used to avoid repeating what's already covered. Add the relevant wound rows from the Wound-to-Framework Map in [[00-MOC/Client-Response-Protocol]].*
 
-- **Not Supported:** [[01-Frameworks/Expectations]], [[01-Frameworks/Power Reclamation (Franks question)]], [[01-Frameworks/Coherence Protocol]]
-- **Not Worthy:** [[01-Frameworks/Belief Excavation]], [[01-Frameworks/FutureYou/FutureYou on Self Worth Presentation]], [[01-Frameworks/FYF/FYF The Born Identity]], [[01-Frameworks/Neutrality and Wholness]]
+- **Not Worthy:** [[01-Frameworks/Belief Excavation]], [[01-Frameworks/FutureYou/FutureYou on Self Worth Presentation]], [[01-Frameworks/Neutrality and Wholness]]
+- **Not Enough:** [[01-Frameworks/Belief Excavation]], [[01-Frameworks/FutureYou/FutureYou on Self Worth Presentation]], [[01-Frameworks/Neutrality and Wholness]]
 
 ---
 
 ## Frameworks Used
 *Which of Tanya's frameworks and concepts have been introduced. Always use wikilinks to the actual framework files in `01-Frameworks/` so Cursor can cross-reference against Session Framework Routing. Format: `[[01-Frameworks/Framework Name|Plain text description]]`*
 
-- FutureYou - Connected her to the part that knows universal support is real
+- FutureYou - Connected her to the part that knows universal support is real and can see bigger picture beyond current overwhelm
 - Energy and frequency work - how her vibration creates outcomes, not just words
-- Body wisdom vs mind stories - learning to drop into body knowing
-- [[01-Frameworks/Belief Excavation]] - Distinguishing between protective beliefs and truth
+- Body wisdom vs mind stories - learning to drop into body knowing versus ego timeline pressure
+- [[01-Frameworks/Belief Excavation]] - Distinguishing between protective beliefs ("I'm behind," "fat equals unattractive") and truth ("heaven sent," "perfect already")
 - Inner compass work - using body's "delicious" feeling as guidance system
 - Both/and thinking - holding conflicting emotions without forcing resolution
+- Timeline reframing - temporary phases versus permanent reality
+- Mirror redirect practice - acknowledging automatic judgments then returning to truth
 
 ---
 
@@ -83,20 +89,21 @@ type: client-profile
 - Distinguishing between her body's trust ("I am infinitely supported") and her mind's panic
 - "Things are meant to feel good. If they don't, something is off" - internal compass recognition
 - Discovering that universal support feels "delicious" in her body when she drops out of her mind
-- Recognizing "this is all there is" as protective belief, not truth
-- Shift from scarcity to "More and more and more is coming"
-- **Major breakthrough:** "Give myself permission to hate it and do it anyway" - discovering she can feel pissy AND grateful simultaneously without contradiction
-- Body relaxation when she stopped fighting with herself about how she should feel
+- "Give myself permission to hate it and do it anyway" - discovering she can feel pissy AND grateful simultaneously
 - "I'm just getting started" energy - connecting to possibility rather than pressure
+- "Smidgen of hope" when reframing job as foundation rather than obstacle
+- **Session 11:** "It's heaven sent" and "perfect already" about her body - accessing truth beneath automatic shame spiral
 
 ---
 
 ## Still Stuck On
 *What hasn't fully resolved yet — important for next session.*
 
-- Bridging the gap between intellectual knowing and embodied trust of universal support
-- Nervous system scanning for threat when money starts flowing — bracing against good things
-- Ego expectations about where she "should be" versus current reality needs
+- Daily mirror moments undoing confidence - automatic scan for body flaws
+- Comparison wounds with other coaches creating "behind" story
+- All-or-nothing thinking about temporary job derailing business permanently
+- Belief that body is "what everyone sees" and defines worth
+- Exhaustion from splitting energy between survival and vision
 
 ---
 
@@ -104,57 +111,57 @@ type: client-profile
 *Words and phrases they use that Tanya mirrors back.*
 
 - "Infinitely supported"
-- "Honoring my truth"
-- "Being ungrateful to the Universe"
+- "Should be further along by now"
+- "Behind and not as good as other coaches"
 - "Things are meant to feel good"
 - "This is all there is"
 - "Delicious" (body knowing of support)
-- "High flying disc" (Abraham Hicks)
 - "More and more and more is coming"
-- "It's just where I am right now"
 - "More will be revealed"
 - "I'm just getting started"
-- "The universe is working for me"
+- "Smidgen of hope"
+- "Tired and cranky"
 - Permission to feel "pissy"
-- "Chest tightness" (physical cue for scarcity thoughts)
+- "Chunky," "icky," "rolls"
+- "Heaven sent," "perfect already"
 
 ---
 
 ## What They Respond Well To
 *Coaching moves that land for this client.*
 
+- Slowing down the panic with "let's slow this down for a second"
 - Questions that help her find her own answers rather than being told
 - Distinguishing between mind stories and body wisdom
-- Energy/frequency language resonates deeply
-- Permission-giving statements (including permission to feel conflicted emotions)
-- Reflecting back her own wisdom and real-time shifts to her
+- Permission-giving statements for difficult emotions
+- Reframing temporary situations versus permanent reality
 - Reality checking with actual evidence vs. fearful projections
-- Both/and language that allows contradictory emotions
-- Normalizing resistance and difficult feelings as human
-- Connecting patterns across sessions (worthiness and support wounds)
-- Flexibility with session length and format based on her energy
+- Reflecting back her body's wisdom and truth-knowing
+- Practical permission for rest when exhausted
+- Normalizing automatic patterns while offering gentle redirects
+- Helping her notice the speed of thought-shift from shame to truth
 
 ---
 
 ## Where They Are in Their Journey
 *Early / Mid / Deep — and a one-line summary of their current edge.*
 
-Mid — Learning to sustain trust in universal support and her own worth when good things happen, rather than just accessing it intellectually; discovering she can hold conflicted emotions while still taking loving action
+Mid — Learning to trust her inherent worth and redirect from automatic shame/comparison patterns while managing practical business building needs
 
 ---
 
 ## BecomingYou Phase
-*Where the client currently sits in the transformation cycle. See [[01-Frameworks/BecomingYou]] for phase definitions and tools. Use only these exact labels: **Circumstance/Contrast**, **Awareness**, **Alignment**, **Action**, **Allowing**. Update every session.*
+*Where the client currently sits in the transformation cycle. See [[01-Frameworks/BecomingYou]] for phase definitions and tools. Use only these exact labels: **Circumstance/Contrast**, **Awareness**, **Action**, **Allowing**. Update every session.*
 
-- **Current phase:** Alignment
-- **Phase history:** Circumstance/Contrast (compensation decision) → Awareness (recognizing patterns) → Alignment (body knowing "delicious" support, both/and emotional permission)
+- **Current phase:** Awareness
+- **Phase history:** Circumstance/Contrast → Awareness → Alignment → back to Circumstance/Contrast (job reality) → Awareness (recognizing unworthiness patterns in body image and business comparison)
 
 ---
 
 ## Emotional Baseline
 *General emotional state, updated each session. Used to notice trends over time.*
 
-- Session 9: Engaging from practical daily life context; maintaining boundaries around session format and timing; adapting to logistics while staying in relationship with the work.
+- Session 11: Frustrated with daily body shame cycle but curious about redirect practice; accessing truth ("heaven sent," "perfect already") when guided; willing to experiment with new approaches despite automatic patterns.
 
 ---
 
@@ -167,16 +174,19 @@ Mid — Learning to sustain trust in universal support and her own worth when go
 - Abraham Hicks reels for quick resets
 - 3 minutes of quiet with breath to drop into body knowing of support
 - "More will be revealed" for trust in unfolding process
+- Permission to rest when exhausted rather than push through
+- Timeline reframes: temporary phase versus permanent reality
+- **New:** Mirror redirect practice - see the judgment, then remember "heaven sent"
 
 ---
 
 ## Focus for Next Session
 *Brief notes so the next session starts with momentum.*
 
-- Address how to maintain body wisdom connection during busy, practical life periods
-- Explore what it means to trust the flow when money is actually coming in
-- Work on the ego "where I should be" story and what it's protecting her from
-- Continue both/and permission — feeling the contraction without it meaning scarcity
+- Check in on mirror redirect practice and any shifts in self-talk
+- Continue working with core unworthiness wound as it shows up in business/body
+- Address comparison wounds with other coaches and "behind" story
+- Explore practical strategies for maintaining business energy while working
 
 ---
 
@@ -189,7 +199,9 @@ Mid — Learning to sustain trust in universal support and her own worth when go
 | 2026-04-27 | Permission for conflicted feelings breakthrough | [[02-Client-Sessions/Deborah/Session 7\|Session 7]] |
 | 2026-05-02 | Brief check in session | [[02-Client-Sessions/Deborah/Session 8\|Session 8]] |
 | 2026-05-02 | Logistics and session format boundaries | [[02-Client-Sessions/Deborah/Session 9\|Session 9]] |
+| 2026-05-08 | Exhaustion and timeline comparison wounds | [[02-Client-Sessions/Deborah/Session 10\|Session 10]] |
+| 2026-05-08 | Body shame and heaven sent truth | [[02-Client-Sessions/Deborah/Session 11\|Session 11]] |
 
 ---
 
-*Last updated: 2026-05-02*
+*Last updated: 2026-05-08*
