@@ -15,23 +15,23 @@ type: client-profile
 
 *Primary and Secondary must use only these exact labels: **Not Worthy**, **Not Enough**, **Not Supported**, **Not Powerful**, **Not Safe**. Do not invent custom wound names.*
 
-- **Primary:** Not Worthy
-- **Secondary:** Not Enough
-- **Belief underneath:** "Even though I built something powerful that works, people might just be being nice about it" / "Will people actually pay for something I created?"
+- **Primary:** Not Safe
+- **Secondary:** Not Worthy
+- **Belief underneath:** "My body can't be trusted to handle intense experiences" / "If I feel that sensation, something terrible will happen" / "Even though I built something powerful, people might just be being nice about it"
 
 ---
 
 ## What They Came In With
 *The surface presenting problem when they first started.*
 
-- Launch strategy falling apart - original AirDrop approach no longer viable due to default phone settings, questioning whether to proceed with May 21st launch
+- Launch strategy falling apart - original AirDrop approach no longer viable, questioning whether to proceed with May 21st launch
 
 ---
 
 ## The Deeper Issue
 *What's really underneath the surface problem.*
 
-- Deep uncertainty about whether what he's created has genuine market value, despite evidence of its effectiveness. Self-doubt about whether people will pay for conversation/coaching, even though he's witnessed real breakthroughs
+- Nervous system dysregulation from past trauma creating daily anxiety and limiting spiritual/substance experiences; disconnect between high mental stress tolerance and under-developed nervous system capacity
 
 ---
 
@@ -39,6 +39,8 @@ type: client-profile
 *What keeps coming up session after session.*
 
 - Deep immersion in work when aligned with his passion - loses track of time when building/creating
+- Mental resilience that overrides body signals - high stress tolerance mentally but body carries the stress
+- Nervous system protection patterns that become the problem they're trying to solve
 
 ---
 
@@ -46,8 +48,8 @@ type: client-profile
 
 *Based on core wounds. Use ONLY the wikilinks below — do not invent framework names or create new wikilinks. Every link must point to a file that exists in the vault.*
 
-- **Not Worthy:** [[01-Frameworks/FutureYou/FutureYou on Self Worth Presentation|Self worth work]], [[01-Frameworks/Belief Excavation|Belief excavation]], [[01-Frameworks/FYF/FYF The Born Identity|Born identity]]
-- **Not Enough:** [[01-Frameworks/Dips and Sips|Dip protocol]], [[01-Frameworks/Alignment Formula|Alignment formula]], [[01-Frameworks/Coherence Protocol|Coherence]]
+- **Not Safe:** [[01-Frameworks/Nervous System Reset|Nervous system work]], [[01-Frameworks/Somatic Tracking|Body awareness]], [[01-Frameworks/Grounding Protocol|Grounding]]
+- **Not Worthy:** [[01-Frameworks/FutureYou/FutureYou on Self Worth Presentation|Self worth work]], [[01-Frameworks/Belief Excavation|Belief excavation]]
 
 ---
 
@@ -63,78 +65,80 @@ type: client-profile
 
 - Recognized his pride in building something his coach mother says is "better than her own coaching"
 - Shifted from "will people buy this?" to "how do I find people who already need this?"
-- Identified rave community as natural target market where he already has relationships
-- Experiencing deep flow and alignment with his work - 10+ hour days that feel energizing rather than draining
+- Understanding that his body can't tell the difference between the sensation and the panic from 2 years ago
+- Realizing he trained mental resilience but not nervous system capacity - "time to be more intentional on the body side to match that same level of resilience"
 
 ---
 
 ## Still Stuck On
 *What hasn't fully resolved yet — important for next session.*
 
-- 20% doubt that positive feedback might just be people "being nice"
-- Practical execution details for the May 21st launch
-- Landing page messaging for rave community AirDrop strategy
+- Daily head tension from nervous system protecting against perceived threat
+- Anxiety around substances blocking access to spiritual experiences
+- Bridging the gap between high mental stress tolerance and under-resourced nervous system
 
 ---
 
 ## Their Language
 *Words and phrases they use that Tanya mirrors back.*
 
-- "More intentional" (when describing needed marketing approach)
-- "What the fuck they actually have to do work" (realizing shortcuts don't exist)
-- "I feel insanely proud of myself" (when acknowledging mother's validation)
-- "I really moved the needle" (describing productive work sessions)
-- "I love this and I love that it's coming along so quick" (about his project momentum)
+- "More intentional" (about both marketing and now nervous system work)
+- "I really moved the needle" (describing productive work sessions) 
+- "My head gets this weight" / "cave in thing" (describing anxiety sensation)
+- "Connect with something larger than myself" (spiritual experiences)
+- "Match that same level of resilience to up level my nervous system"
 
 ---
 
 ## What They Respond Well To
 *Coaching moves that land for this client.*
 
-- Direct reflection of his internal conflict
-- Highlighting concrete evidence of his product's effectiveness
-- Reframing questions (shifting from "will people buy" to "where are the people who need this")
-- Acknowledgment of his alignment and flow states
+- Explaining the nervous system logic behind his experiences
+- Reframing protection patterns as intelligent but outdated
+- Connecting mental and physical capacity building
+- Practical, testable approaches (sleep first, then assess)
+- Validation of his high mental stress tolerance while addressing the gap
 
 ---
 
 ## Where They Are in Their Journey
 *Early / Mid / Deep — and a one-line summary of their current edge.*
 
-Early — Moving from self-doubt to momentum and flow, building confidence through consistent aligned action
+Early — Moving from mental-only resilience to integrated nervous system capacity, ready to train body awareness with same intentionality as mental strength
 
 ---
 
 ## BecomingYou Phase
 *Where the client currently sits in the transformation cycle. See [[01-Frameworks/BecomingYou]] for phase definitions and tools. Use only these exact labels: **Circumstance/Contrast**, **Awareness**, **Alignment**, **Action**, **Allowing**. Update every session.*
 
-- **Current phase:** Action
-- **Phase history:** Session 1 (Awareness) - became aware that his doubt isn't about product quality but about market validation; Session 2 (Action) - deep flow state with 10+ hour work day, moving the needle on his project
+- **Current phase:** Awareness
+- **Phase history:** Session 1 (Awareness) - product validation doubts; Session 2 (Action) - deep flow state; Session 3 (Awareness) - understanding nervous system patterns and need for body-side training
 
 ---
 
 ## Emotional Baseline
 *General emotional state, updated each session. Used to notice trends over time.*
 
-Energized and aligned - experiencing deep satisfaction from extended work sessions, feeling momentum and love for his project, ready for rest after productive effort
+Mentally clear and motivated but carrying daily physical tension; ready to address nervous system capacity with same intentionality he's brought to mental resilience training
 
 ---
 
 ## Tools That Have Landed
 *Specific tools (breathwork, rewriting, future casting, etc.) that have actually resonated with this client.*
 
-- Reframing questions to shift perspective
-- Using concrete evidence to counter self-doubt
-- Recognition and validation of flow states
+- Nervous system education and reframing
+- Practical testing approach (isolate variables, measure results)
+- Breathwork and meditation (previous experience to build on)
+- Neck massage for tension regulation
 
 ---
 
 ## Focus for Next Session
 *Brief notes so the next session starts with momentum.*
 
-- Explore how to sustain this momentum and alignment
-- Address any remaining doubts about market reception
-- Continue building on the productive energy and flow states
+- Check in on sleep improvements and any shifts in daily head tension
+- Layer in breathwork if needed after testing sleep foundation
+- Continue building nervous system capacity to match mental resilience
 
 ---
 
@@ -143,7 +147,8 @@ Energized and aligned - experiencing deep satisfaction from extended work sessio
 |---|---|---|
 | 2026-05-07 | Strategy pivot reveals self-worth doubts | [[02-Client-Sessions/JC/Session 1|Session 1]] |
 | 2026-05-14 | Deep flow state and momentum | [[02-Client-Sessions/JC/Session 2|Session 2]] |
+| 2026-05-15 | Nervous system training for anxiety resolution | [[02-Client-Sessions/JC/Session 3|Session 3]] |
 
 ---
 
-*Last updated: 2026-05-14*
+*Last updated: 2026-05-15*
