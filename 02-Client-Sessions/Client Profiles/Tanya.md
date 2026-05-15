@@ -17,7 +17,7 @@ type: client-profile
 
 - **Primary:** Not Worthy
 - **Secondary:** Not Supported
-- **Belief underneath:** "I am alone in trying to love my brother, and nothing I do can break through his pain" / "If I don't deliver depth and elaborate content, I'm not worthy of people's time and trust" / "If I don't have the answer ready as a coach, I'm failing my clients"
+- **Belief underneath:** "I am alone in trying to love my brother, and nothing I do can break through his pain" / "If I don't deliver depth and elaborate content, I'm not worthy of people's time and trust" / "If I don't have the answer ready as a coach, I'm failing my clients" / "My expertise goes unseen while others get celebrated for basic awareness" / "The world rewards unconsciousness and drama over quiet depth"
 
 ---
 
@@ -38,6 +38,9 @@ type: client-profile
 - Equating elaborate preparation and complex content with worthiness - believing simple isn't enough to deserve people's time
 - Needing to have "the answer" ready to prove coaching worthiness, caught between honoring client autonomy and providing needed knowledge
 - The paradox of wanting clients to be self-sourced while being the one delivering insights
+- Fundamental need to belong and have her voice matter to family, despite knowing her worth
+- Living with unfillable holes that can only be filled by specific people who may never fill them
+- Cosmic unfairness of consciousness - being spiritually "parentified" where awareness becomes a burden rather than freedom
 
 ---
 
@@ -49,6 +52,11 @@ type: client-profile
 - Self-doubt about whether her "clean" intentions are actually harmful or arrogant
 - Tension between teaching (which provides foundation) and coaching (which builds autonomy)
 - Seeking external validation for approaches she already knows work
+- Being triggered by watching unconscious people get rescued while conscious people get ignored
+- Watching barely aware people get celebrated for insights she's held for years
+- Family patterns of dismissal resurfacing every time she's around them despite years of inner work
+- Living between two kinds of pain - being with people who don't see her vs not being with them
+- The "broken hallelujah" of spiritual awareness - being conscious enough to see unfairness but unable to escape it
 
 ---
 
@@ -69,6 +77,9 @@ type: client-profile
 - Testing/experimentation - trying new approaches for set periods to see actual results vs imagined fears
 - Teaching vs coaching distinction - when to provide knowledge foundation vs guide discovery
 - Nervous system regulation before strategy principle
+- Grief as spiritual recognition - some holes can only be filled by specific people and may remain unfilled
+- Death by a thousand cuts - the repeated micro-rejections that reactivate original wounds
+- Cosmic unfairness framework - the backwards system that rewards unconsciousness over depth
 
 ---
 
@@ -81,15 +92,21 @@ type: client-profile
 - Realizing she's equating "solid insights" with elaborate frameworks when the deepest insight might be practicing the thing itself
 - Seeing that moving into simplicity requires more trust and is actually the bigger risk
 - Understanding that some knowledge must be taught before clients can discover their own application - she was already doing it right
+- Naming family dynamic as grief rather than a problem to solve - some losses are permanent regardless of inner work
+- Recognizing the spiritual parentification - being emotionally mature enough to not need care while others get rescued
+- Seeing the cosmic unfairness clearly - the system rewards drama and unconsciousness over quiet depth and consistency
+- Understanding that wanting recognition for expertise isn't a character flaw but completely human
 
 ---
 
 ## Still Stuck On
 *What hasn't fully resolved yet — important for next session.*
 
-- Finding the specific consistent way to express care that she can maintain with her brother
-- Fully trusting that teaching mechanics first enables rather than undermines client autonomy
-- Releasing the need to have clients discover specialized knowledge they cannot access without foundation
+- Living with unfillable holes and the repeated grief they bring
+- The impossible choice between being around family (reactivates wound) or avoiding them (creates different loss)
+- Finding spaces where her level of consciousness is valued rather than penalized
+- Managing the frustration of watching unconscious people get celebrated while her depth goes unrecognized
+- The cosmic unfairness of awareness itself - seeing clearly without being able to change what she sees
 
 ---
 
@@ -107,6 +124,12 @@ type: client-profile
 - "Mechanics"
 - "Guessing game"
 - "It needs to land"
+- "Death by a thousand cuts"
+- "This fucking sucks"
+- "Broken hallelujahs" 
+- "Unfillable hole"
+- "Reincarnated grief"
+- "Holding the bag of the hole"
 
 ---
 
@@ -120,25 +143,29 @@ type: client-profile
 - Direct answers when she explicitly asks for guidance instead of trying to coach her to discover everything
 - Reflecting back patterns she's caught in
 - Confirming she's already doing things right when she's questioning herself
+- Normalizing her human needs (belonging, recognition) rather than spiritually bypassing them
+- Validating the cosmic unfairness rather than trying to reframe it positively
+- Permission to let things be as messy and contradictory as they are
+- Acknowledging that some situations truly have no good options
 
 ---
 
 ## Where They Are in Their Journey
 *Early / Mid / Deep — and a one-line summary of their current edge.*
 
-**Mid** — Learning to trust her expertise enough to teach what needs teaching while coaching the application, releasing the need for clients to discover specialized knowledge they can't access alone.
+**Deep** — Living consciously with cosmic unfairness and unfillable holes while seeking spaces where depth is valued over drama.
 
 ---
 
 ## BecomingYou Phase
 *See [[01-Frameworks/BecomingYou]] for phase definitions and tools.*
-- **Current phase:** Alignment (continuing to choose trust in her existing approach over self-doubt, integrating teaching and coaching rather than seeing them as contradictory)
-- **Phase history:** Circumstance/Contrast (brother dynamic, time drain, teaching vs. coaching tension) → Awareness (self-doubt as his voice, complexity-equals-worthiness equation) → Alignment (lighthouse, clean intention, simplicity as trust)
+- **Current phase:** Allowing (accepting that some holes remain unfilled, some systems stay unfair, and consciousness comes with the burden of seeing what cannot be changed)
+- **Phase history:** Circumstance/Contrast (brother dynamic, time drain, teaching vs. coaching tension) → Awareness (self-doubt as his voice, complexity-equals-worthiness equation) → Alignment (lighthouse, clean intention, simplicity as trust) → Allowing (grief as permanent, cosmic unfairness as unchangeable)
 
 ---
 
 ## Emotional Baseline
-- Session 3: Started seeking guidance, moved through resistance to being coached, ended with clarity and validation of current approach
+- Session 4: Started frustrated about recognition/invisibility, moved through grief about unfillable family holes, ended in raw acceptance of cosmic unfairness and spiritual parentification
 
 ---
 
@@ -149,14 +176,18 @@ type: client-profile
 - Teaching mechanics first, then coaching application
 - Distinguishing between what clients can discover vs what must be taught
 - Simple structure: opener + practice vs elaborate themes
+- Grief as recognition rather than problem to solve
+- Naming spiritual parentification - carrying consciousness for others while getting no care
+- Permission to acknowledge "this fucking sucks" without needing to transcend it
+- Belonging to self first while still seeking appropriate spaces for recognition
 
 ---
 
 ## Focus for Next Session
-- How the simplified call format experiment is progressing
-- Implementing the teach-then-coach sequence in practice
-- Continued work on finding consistent approach with her brother
-- Building on the validation that her current approach is working
+- Exploring where she actually belongs - finding/creating spaces that value depth over drama
+- Continued integration of living with unfillable holes without spiritual bypassing
+- Building on the foundation of belonging to self first
+- How the simplified coaching format continues to evolve
 
 ---
 
@@ -166,7 +197,8 @@ type: client-profile
 | 2026-04-15 | Trusting clean love despite painful responses | [[02-Client-Sessions/Tanya/Session 1\|Session 1]] |
 | 2026-04-26 | Choosing simplicity over proving worthiness | [[02-Client-Sessions/Tanya/Session 2\|Session 2]] |
 | 2026-05-04 | Teaching enables coaching, not opposes it | [[02-Client-Sessions/Tanya/Session 3\|Session 3]] |
+| 2026-05-15 | Living with unfillable holes cosmic unfairness | [[02-Client-Sessions/Tanya/Session 4\|Session 4]] |
 
 ---
 
-*Last updated: 2026-05-04*
+*Last updated: 2026-05-15*
