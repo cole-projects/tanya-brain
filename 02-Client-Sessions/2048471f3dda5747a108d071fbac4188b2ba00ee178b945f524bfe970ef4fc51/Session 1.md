@@ -1,4 +1,4 @@
-**Client:** [[02-Client-Sessions/Client Profiles/Antonella|Antonella]] · [[02-Client-Sessions|Client Sessions]]
+**Client:** [[02-Client-Sessions/Client Profiles/2048471f3dda5747a108d071fbac4188b2ba00ee178b945f524bfe970ef4fc51|Antonella]] · [[02-Client-Sessions|Client Sessions]]
 
 # Session 1 — Antonella
 

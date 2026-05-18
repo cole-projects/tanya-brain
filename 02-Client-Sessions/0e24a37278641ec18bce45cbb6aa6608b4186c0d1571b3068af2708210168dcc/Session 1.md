@@ -1,4 +1,4 @@
-**Client:** [[02-Client-Sessions/Client Profiles/jesse|jesse]] · [[02-Client-Sessions|Client Sessions]]
+**Client:** [[02-Client-Sessions/Client Profiles/0e24a37278641ec18bce45cbb6aa6608b4186c0d1571b3068af2708210168dcc|jesse]] · [[02-Client-Sessions|Client Sessions]]
 
 # Session 1 — jesse
 

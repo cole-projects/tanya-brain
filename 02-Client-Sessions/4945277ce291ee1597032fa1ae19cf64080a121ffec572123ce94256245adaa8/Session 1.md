@@ -1,4 +1,4 @@
-**Client:** [[02-Client-Sessions/Client Profiles/Evan|Evan]] · [[02-Client-Sessions|Client Sessions]]
+**Client:** [[02-Client-Sessions/Client Profiles/4945277ce291ee1597032fa1ae19cf64080a121ffec572123ce94256245adaa8|Evan]] · [[02-Client-Sessions|Client Sessions]]
 
 # Session 1 — Evan
 

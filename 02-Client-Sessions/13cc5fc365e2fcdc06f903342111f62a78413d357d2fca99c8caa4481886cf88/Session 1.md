@@ -1,4 +1,4 @@
-**Client:** [[02-Client-Sessions/Client Profiles/Lindsay|Lindsay]] · [[02-Client-Sessions|Client Sessions]]
+**Client:** [[02-Client-Sessions/Client Profiles/13cc5fc365e2fcdc06f903342111f62a78413d357d2fca99c8caa4481886cf88|Lindsay]] · [[02-Client-Sessions|Client Sessions]]
 
 # Session 1 — Lindsay
 

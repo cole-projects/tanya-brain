@@ -1,4 +1,4 @@
-**Client:** [[02-Client-Sessions/Client Profiles/Coyanne|Coyanne]] · [[02-Client-Sessions|Client Sessions]]
+**Client:** [[02-Client-Sessions/Client Profiles/38411de79216a94cb11a63ab7c321fdb281606054d7da4022d707ab51456a311|Coyanne]] · [[02-Client-Sessions|Client Sessions]]
 
 # Session 1 — Coyanne
 
