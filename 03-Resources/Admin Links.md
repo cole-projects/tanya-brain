@@ -8,10 +8,14 @@ type: resource
 ## Usage CSV Download
 Download the full session cost log (all clients, all sessions, cost in USD).
 
-```
-https://worker-production-32fb.up.railway.app/admin/usage-csv?key=cjDEPh3u5QrHuGlo4KPK7cd9_ZClA20t
+Run this in Terminal — saves the file to your Desktop:
+
+```bash
+curl -H "Authorization: Bearer cjDEPh3u5QrHuGlo4KPK7cd9_ZClA20t" \
+  https://worker-production-32fb.up.railway.app/admin/usage-csv \
+  -o ~/Desktop/tanya_usage.csv
 ```
 
-Paste into browser → downloads as `tanya_usage.csv` → open in Numbers or Excel.
+Then open `tanya_usage.csv` on your Desktop in Numbers or Excel.
 
 Columns: `log_id, timestamp, phone_hash, user, model, input_tokens, output_tokens, cache_read_input_tokens, cache_creation_input_tokens, approx_usd`
