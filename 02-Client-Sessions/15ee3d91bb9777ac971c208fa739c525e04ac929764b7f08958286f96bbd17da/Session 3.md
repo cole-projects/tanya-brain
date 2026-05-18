@@ -1,4 +1,4 @@
-**Client:** [[02-Client-Sessions/Client Profiles/JC|JC]] · [[02-Client-Sessions|Client Sessions]]
+ what **Client:** [[02-Client-Sessions/Client Profiles/JC|JC]] · [[02-Client-Sessions|Client Sessions]]
 
 # Session 3 — JC
 

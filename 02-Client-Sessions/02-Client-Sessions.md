@@ -50,7 +50,9 @@ type: moc
 *Primary themes: manifestation, going broader, neural pathway rewiring*
 
 ### JC
-- [[02-Client-Sessions/JC/2026-04-08|Apr 8, 2026]]
+- [[02-Client-Sessions/15ee3d91bb9777ac971c208fa739c525e04ac929764b7f08958286f96bbd17da/Session 1|Session 1]]
+- [[02-Client-Sessions/15ee3d91bb9777ac971c208fa739c525e04ac929764b7f08958286f96bbd17da/Session 2|Session 2]]
+- [[02-Client-Sessions/15ee3d91bb9777ac971c208fa739c525e04ac929764b7f08958286f96bbd17da/Session 3|Session 3]]
 *Primary themes: technical perfectionism, embodied enjoyment, creative flow*
 
 ### Joel
