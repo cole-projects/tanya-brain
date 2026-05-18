@@ -28,8 +28,7 @@ AWARENESS → CLEARING → BECOMING
 > *Understanding why you feel what you feel and reclaiming authorship of your inner world.*
 
 - [[4 step reset]] — The foundational process: feel it, find the thought, reframe it
-- [[Emotion vs Feeling]] — The critical distinction between emotion and feeling
-- [[Emotions vs Feelings]] — Expanded version of the same distinction
+- [[Emotions vs Feelings]] — The distinction between emotion and feeling
 - [[Negative manifestations]] — Why we attract what we don't want and how to shift it
 - [[Expectations]] — How unexamined expectations create suffering
 - [[Power Reclamation (Franks question)]] — Taking your power back from circumstances and people

@@ -94,7 +94,7 @@ What would you be like with your perfect partner or whatever the manifestation i
 
 ## Related Frameworks
 - [[4 step reset]]
-- [[Emotion vs Feeling]]
+- [[Emotions vs Feelings]]
 - [[Emotions vs Feelings]]
 - [[Expectations]]
 - [[Power Reclamation (Franks question)]]

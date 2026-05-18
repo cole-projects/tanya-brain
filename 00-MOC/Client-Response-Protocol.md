@@ -190,7 +190,21 @@ Use these naturally, not robotically:
 
 ---
 
-*Last updated: 2026-04-27 — Trimmed to coaching-interpretation-only sections. Removed: ICF Principles, Session Opening, Wound-to-Framework Map, Five Wounds Quick Reference, Response Length Guide. All removed content preserved in Communication Device codebase.*
+*Last updated: 2026-05-18 — Wound-to-Framework Map restored for profile routing.*
+
+---
+
+## Wound-to-Framework Map
+
+Use this map to populate **## Session Framework Routing** in client profiles. Match the client's primary and secondary wound to the framework links below. Use ONLY the wikilinks listed here — never invent new ones.
+
+| Wound | Primary Frameworks | Supporting Frameworks |
+|---|---|---|
+| **Not Safe** | [[01-Frameworks/Scaffolding vs Bypassing\|Scaffolding vs Bypassing]], [[01-Frameworks/4 step reset\|4 Step Reset]] | [[01-Frameworks/Coherence Protocol\|Coherence Protocol]], [[01-Frameworks/FutureYou/FutureYou Frequency 101\|Frequency 101]] |
+| **Not Worthy** | [[01-Frameworks/FutureYou/FutureYou on Self Worth Presentation\|Self Worth Presentation]], [[01-Frameworks/Belief Excavation\|Belief Excavation]] | [[01-Frameworks/FYF/FYF The Born Identity\|The Born Identity]], [[01-Frameworks/FutureYou/FutureYou Upper Limits\|Upper Limits]] |
+| **Not Enough** | [[01-Frameworks/Dips and Sips\|Dips and Sips]], [[01-Frameworks/Alignment Formula\|Alignment Formula]] | [[01-Frameworks/FutureYou/FutureYou Anchoring\|Anchoring]], [[01-Frameworks/FYF/FYF Moments of Me2.0\|Moments of Me 2.0]] |
+| **Not Supported** | [[01-Frameworks/Power Reclamation (Franks question)\|Power Reclamation]], [[01-Frameworks/Expectations\|Expectations]] | [[01-Frameworks/FutureYou/FutureYou Strained Relationships\|Strained Relationships]] |
+| **Not Powerful** | [[01-Frameworks/4 step reset\|4 Step Reset]], [[01-Frameworks/Belief Excavation\|Belief Excavation]] | [[01-Frameworks/Alignment\|Alignment]], [[01-Frameworks/Frequency choices\|Frequency Choices]], [[01-Frameworks/FYF/FYF Desire Excavation\|Desire Excavation]] |
 
 ---
 

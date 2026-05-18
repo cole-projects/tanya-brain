@@ -386,5 +386,5 @@ You’re the one choosing how you experience what happens.
 ## Related Frameworks
 - [[BecomingYou]]
 - [[Alignment Formula]]
-- [[Emotion vs Feeling]]
+- [[Emotions vs Feelings]]
 - [[Core-Program-Index|Core Program — Full Sequence]]

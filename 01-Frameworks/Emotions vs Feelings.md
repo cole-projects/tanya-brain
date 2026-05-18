@@ -87,7 +87,7 @@ Healing happens when you let the emotion be felt — without rushing to assign a
 **The flow:** Stimulus → Emotion → Thought → Feeling → Behavior → Result
 
 ## Related Frameworks
-- [[Emotion vs Feeling]]
+- [[Emotions vs Feelings]]
 - [[4 step reset]]
 - [[Negative manifestations]]
 - [[Expectations]]

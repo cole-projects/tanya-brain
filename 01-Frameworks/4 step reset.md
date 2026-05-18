@@ -64,7 +64,6 @@ This:
 - Helps you learn how to create new emotion in a repeatable way
 
 ## Related Frameworks
-- [[Emotion vs Feeling]]
 - [[Emotions vs Feelings]]
 - [[Negative manifestations]]
 - [[Expectations]]
