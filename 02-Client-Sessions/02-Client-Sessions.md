@@ -53,7 +53,6 @@ type: moc
 
 - [[Tanya-Voice-Profile]] — How Tanya speaks and the phrases she uses in session
 - [[Client-Response-Protocol]] — The response structure and triage system
-- [[Framework-Map]] — How all frameworks connect to each other
 - [[03-Resources/Tanya Profile]] — Tanya's cognitive and behavioral style
 - [[03-Resources/icf-cs-core-competencies-2025.pdf]] — ICF 2025 competency standard
 

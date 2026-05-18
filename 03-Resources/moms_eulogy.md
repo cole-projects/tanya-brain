@@ -88,8 +88,8 @@ Every line of this eulogy maps directly onto Tanya's frameworks and philosophy. 
 | "Fear, doubt, and uncertainty — not as flaws, but as doorways." | [[01-Frameworks/FutureYou/FutureYou Fear as Motivator]], [[00-MOC/Tanya-Voice-Profile]] — "soul stretches" |
 | "She helped them discover the mechanism of their own power." | MESH Coaching — building self-sourcing humans. [[00-MOC/Tanya-Voice-Profile]] |
 | "They were not just choosing between options… They were choosing who they were becoming." | [[01-Frameworks/FutureYou/FutureYou Actualization vs Acquisition]] — identity over acquisition |
-| "Alignment wasn't about perfection — it was about awareness." | [[01-Frameworks/The Alignment Arc]], [[00-MOC/Framework-Map]] — AWARENESS → CLEARING → BECOMING |
-| "Once awareness came online, everything else could follow." | [[00-MOC/Framework-Map]] — the entire three-stage client journey |
+| "Alignment wasn't about perfection — it was about awareness." | [[01-Frameworks/The Alignment Arc]] — AWARENESS → CLEARING → BECOMING |
+| "Once awareness came online, everything else could follow." | [[01-Frameworks/The Alignment Arc]] — the entire three-stage client journey |
 | "From rumination to clarity… From fear to authorship." | [[01-Frameworks/Alignment Formula]], [[01-Frameworks/Coherence Protocol]] |
 | "Once you see that… you can never unsee it." | [[01-Frameworks/Ubiquitous Assimilation]] — how new identity becomes permanent |
 | "She didn't just teach empowerment. She embodied it." | [[01-Frameworks/FutureYou/FutureYou Actualization vs Acquisition]], [[03-Resources/Tanya Profile — Deeper Behavioral & Cognitive Map]] — "motivated by transformation, not performance" |
