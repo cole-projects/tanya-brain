@@ -191,4 +191,3 @@ Have you thought about what that landing page would need to say to hook someone 
 **JC:** End session
 
 **Tanya:** I've saved our session. When you're here, I'm here. 💛
-
