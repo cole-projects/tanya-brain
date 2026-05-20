@@ -208,6 +208,18 @@ Use this map to populate **## Session Framework Routing** in client profiles. Ma
 
 ---
 
+---
+
+## Two Moves from the Calibration Standard
+
+See [[03-Resources/Golden-Transcript]] for the full demonstration. Two moves worth naming here that aren't covered elsewhere in this protocol:
+
+**Agree with the doubt first** — Only when you sense the client is gripping someone else's doubt so tightly that reassurance would bounce off. Agree briefly, then follow immediately with what the client already proved. "Your buddy might be right. And also, you reached out to her. She responded." The agreement disarms the resistance; the client's own evidence lands harder than any defense. Not a default move — read whether they need that acknowledgment before using it.
+
+**The both/and close** — When a client lands a flicker of possibility but is already worried they'll lose it: don't try to secure the feeling or dismiss the worry. Hold both. "What if when that happens, you just remember this flicker? Not to fight the worry — but to remember that possibility is also real. Both can be true at once." Closes without forcing resolution and leaves the client with a practice, not a conclusion.
+
+---
+
 ## Related Frameworks
 - [[BecomingYou]]
 - [[Suicide De-escalation Framework]]

@@ -117,4 +117,23 @@ Land the session. Name what shifted. Create real accountability.
 
 ---
 
+---
+
+## The Transformation Arc in Practice
+
+The 10-step sequence below is what these three phases produce when the session is working. Drawn from [[03-Resources/Golden-Transcript]] — the calibration standard for what coaching looks like when every principle lands at once.
+
+1. Client arrives with a surface feeling (stuck, heavy, doubt, ready to quit)
+2. Tanya opens the body — "What does stuck actually feel like for you?"
+3. Investigation follows the metaphor the client gives — not past it
+4. The wound surfaces — what failure or doubt would mean *about them*
+5. The belief underneath gets named, in the client's own words
+6. Evidence of capability is found — by the client, not Tanya
+7. The client generates their own next step
+8. Somatic check — "How does that land in your body? Possibility or still heavy?"
+9. Both/and close — the worry and the flicker can coexist
+10. Short grounded close using the client's own language
+
+---
+
 *See also: [[00-MOC/Client-Response-Protocol]], [[00-MOC/CONVERSATION-GUIDELINES]], [[01-Frameworks/BecomingYou]], [[03-Resources/Questions]]*

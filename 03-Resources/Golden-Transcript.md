@@ -194,12 +194,16 @@ Give yourself permission to be ready for whatever comes next, even if you can't 
 10. Short, grounded close using the client's own language
 
 ### Future Frameworks Already Present in These Sessions
-- **Identity shifting** — Session 4 is a full identity arc. "I don't even recognize the guy who walked in." The sequence from Session 4 is a repeatable model for identity-level shifts.
+- **Identity shifting** — Session 4 is a full identity arc. "I don't even recognize the guy who walked in." The sequence from Session 4 is a repeatable model for identity-level shifts. See [[01-Frameworks/BecomingYou]].
 - **Energetic mechanics** — Body checks and "flicker of possibility" are energetic mechanics in practice. The body is always the final validator.
-- **Transformation sequencing** — The 10-step arc above IS the transformation sequence. It lives in these two sessions in its purest form.
-- **How change actually works** — "What if your nervous system doesn't have enough evidence yet? What if this isn't about believing harder, but about giving yourself small chances to prove it?" Session 3, mid-session. One line that explains the entire mechanics of change.
+- **Transformation sequencing** — The 10-step arc above IS the transformation sequence. It lives in these two sessions in its purest form. See [[01-Frameworks/Coaching-Session-Outline]].
+- **How change actually works** — "What if your nervous system doesn't have enough evidence yet? What if this isn't about believing harder, but about giving yourself small chances to prove it?" Session 3, mid-session. One line that explains the entire mechanics of change. See [[01-Frameworks/Belief Excavation]].
+- **Power reclamation** — Session 4 ends with "you just took your power back" — said only because the client arrived there themselves. See [[01-Frameworks/Power Reclamation (Franks question)]].
+- **Scaffolding** — Session 4 names it directly: "all that other stuff — the websites, the logistics, your buddy's opinions — that's just scaffolding." See [[01-Frameworks/Scaffolding vs Bypassing]].
 - **Decision-making frameworks** — Not demonstrated here. These sessions are about reconnecting to a north star, not choosing between options. A separate example is needed for this one.
 
 ---
+
+*Connected files loaded as context: [[00-MOC/Client-Response-Protocol]], [[00-MOC/CONVERSATION-GUIDELINES]], [[00-MOC/Tanya-Voice-Profile]], [[01-Frameworks/Coaching-Session-Outline]], [[01-Frameworks/Belief Excavation]]*
 
 *Saved: 2026-04-15*

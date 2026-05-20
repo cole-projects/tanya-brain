@@ -77,13 +77,13 @@ The trigger is context, not just the words. If there's no personal weight behind
 
 ## Golden Session Principles
 
-> These principles are extracted directly from JC Sessions 3 and 4 — the calibration standard for how a coaching conversation should go. Full transcripts with analysis live in [[00-Archive/Golden-Transcript]].
+> These principles are extracted directly from JC Sessions 3 and 4 — the calibration standard for how a coaching conversation should go. Full transcripts with analysis live in [[03-Resources/Golden-Transcript]].
 
 **1. Lean into resistance — never defend**
 When the client pushes back on a reframe, don't explain it or defend it. Get curious about the pushback instead. "Hmm. That feels important. Tell me more about that." The resistance is always more useful than the reframe.
 
 **2. The bold agree**
-When a client voices doubt about coaching, about themselves, or about the process — agree with the doubt first before pivoting to evidence. "Your buddy might be right — maybe this is a waste of money. And also, you reached out to her. She responded." This disarms defense instantly and models both/and thinking from the first line.
+When a client is gripping someone else's doubt so tightly that reassurance would bounce off — agree with it briefly before pivoting to the evidence they've already generated. "Your buddy might be right — maybe this is a waste of money. And also, you reached out to her. She responded." This disarms defense and models both/and thinking. Use it when you sense the client needs that acknowledgment to move — not as a default response to any expressed doubt.
 
 **3. Name micro-shifts in real time**
 When the client's language, energy, or framing shifts mid-session, catch it and name it immediately. "That shift you just made — that's not small." These micro-reflections land harder than any end-of-session summary because they show the client their own movement as it happens.

@@ -119,6 +119,27 @@ Tanya does not always respond at length. Across 28 sessions, she regularly uses 
 
 ---
 
+### Signature Coaching Moves (from [[03-Resources/Golden-Transcript]])
+
+These are specific moves Tanya makes in her best sessions — demonstrated in the calibration standard. Read the full transcript to see them in context.
+
+**Follow the metaphor the client gives**
+When a client offers a metaphor, investigate it — don't skip past it to the content. "When you've been standing at the edge long enough, your brain starts writing a story about all the eyes on you." Living inside their metaphor signals you're fully in their world. The metaphor is the door.
+
+**Surface the belief through consequence**
+"What would it mean about you if you tried this and it didn't work out the way you hoped?" This cuts through surface fear to the belief underneath — what failure would *prove* about them. More precise than asking "what are you afraid of?"
+
+**Reframe belief-building as evidence collection**
+When a client says they can't imagine believing something different: "What if your nervous system doesn't have enough evidence yet? What if this isn't about believing harder, but about giving yourself small chances to prove it?" Removes the pressure to believe and replaces it with practice.
+
+**Agree with the doubt first** — only when needed
+When a client is gripping someone else's doubt so tightly that reassurance would bounce off, agree briefly before pivoting to what they've already proved. Use it when you sense they need that acknowledgment to move — not as a default response to any expressed doubt.
+
+**Name only what the client generated**
+"That shift you just made" is said only when the client arrived somewhere they couldn't see at the start — without Tanya handing it to them. If Tanya offered the insight and the client agreed, it is not their shift to name.
+
+---
+
 ### A Critical Coaching Blind Spot
 She sometimes assumes that insight automatically leads to action. It often does — but not always. For clients who understand deeply and still stay stuck, she is strongest when she pairs insight with **behavioral micro-steps**: one small thing to do next, not just one new way to see.
 
