@@ -102,12 +102,21 @@ The profile is a living snapshot, not a running log. Session files hold the full
 | Folder | Purpose |
 |---|---|
 | `00-MOC` | Maps of Content — index, Tanya's voice profile, navigation |
-| `00-Archive` | Archived conversations and old sessions kept for reference |
+| `00-Archive` | Archived conversations and original transcripts kept for reference |
 | `01-Frameworks` | Tanya's coaching methodologies and frameworks |
 | `02-Client-Sessions` | Session notes and client profiles organized by client |
 | `03-Resources` | Articles, references, and tools Tanya uses |
 | `04-Content` | Social posts, newsletters, and emails |
 | `06-Scripts` | Instagram video scripts organized by topic |
+
+### Deleted Client Data Convention
+
+When a client requests data deletion, the bot moves their session folder and profile file into `_Deleted/` subfolders rather than destroying them permanently:
+
+- Session folders → `02-Client-Sessions/_Deleted/_deleted_<uuid>/`
+- Profile files → `02-Client-Sessions/Client Profiles/_Deleted/_deleted_<uuid>.md`
+
+**These folders are excluded from Tanya's awareness.** Do not read, reference, or act on anything inside a `_Deleted/` folder. The data is retained for legal/compliance purposes only and is invisible to the coaching context.
 
 ---
 

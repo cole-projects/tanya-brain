@@ -32,7 +32,8 @@ Articles, books, tools, and references. Includes Tanya's behavioral profiles:
 - [[03-Resources/Tanya Profile]] — personality, strengths, blind spots, decision-making
 - [[03-Resources/Tanya Profile — Deeper Behavioral & Cognitive Map]] — cognitive style, communication modes, core motivations
 - [[03-Resources/Questions]] — source bank of coaching questions; principles extracted into [[00-MOC/CONVERSATION-GUIDELINES]]
-- [[03-Resources/Admin Links]] — Railway admin URLs (usage CSV download)
+- [[03-Resources/First Meeting with Mom]] — transcript of Cole's first recorded conversation with Tanya; origin story and coaching philosophy in her own words
+- [[03-Resources/Golden-Transcript]] — calibration standard for coaching sessions; JC Sessions 3 & 4 demonstrating every principle landing at once
 
 ### [[04-Content|Content]]
 Social media posts, newsletters, and email drafts.
@@ -42,6 +43,7 @@ Ready-to-use video scripts organized by topic.
 
 ### [[00-Archive|Archive]]
 Archived conversations and original transcripts kept for reference.
+- [[00-Archive/Error Reports]] — issues submitted via the TanyaTalk landing page; review and resolve manually
 
 ---
 
