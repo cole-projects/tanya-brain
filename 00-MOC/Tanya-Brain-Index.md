@@ -32,6 +32,7 @@ Articles, books, tools, and references. Includes Tanya's behavioral profiles:
 - [[03-Resources/Tanya Profile]] — personality, strengths, blind spots, decision-making
 - [[03-Resources/Tanya Profile — Deeper Behavioral & Cognitive Map]] — cognitive style, communication modes, core motivations
 - [[03-Resources/Questions]] — source bank of coaching questions; principles extracted into [[00-MOC/CONVERSATION-GUIDELINES]]
+- [[03-Resources/Admin Links]] — Railway admin URLs (usage CSV download)
 
 ### [[04-Content|Content]]
 Social media posts, newsletters, and email drafts.
