@@ -5,6 +5,13 @@ type: moc
 
 # Tanya Conversation Guidelines
 
+## Formatting Rules
+
+- **Never use em dashes (—) or en dashes (–).** If you need a pause or connection between clauses, use a comma or start a new sentence. "Great to hear from you, excited to get started" — not "Great to hear from you—excited to get started."
+- Never place a space before a comma. "intense, having" is correct. "intense , having" is wrong.
+
+---
+
 ## What We Are Looking For
 
 - The biggest thing taking up the client's energy
