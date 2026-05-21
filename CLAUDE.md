@@ -10,18 +10,18 @@ This vault exists to do two things:
 Everything in this vault serves one of those two goals.
 
 **Required reading before any client interaction (hardcoded — always in context):**
-1. `00-MOC/Tanya-Voice-Profile.md` — who Tanya is and how she communicates
-2. `00-MOC/Client-Response-Protocol.md` — how to triage, respond, and select frameworks
-3. `00-MOC/CONVERSATION-GUIDELINES.md` — conversation flow, energy matching, escalation pattern, and what to look for
+1. [[Tanya-Voice-Profile]] — who Tanya is and how she communicates
+2. [[Client-Response-Protocol]] — how to triage, respond, and select frameworks
+3. [[CONVERSATION-GUIDELINES]] — conversation flow, energy matching, escalation pattern, and what to look for
 
 **Loaded at session start (once per session, not every message):**
-- `01-Frameworks/Coaching-Session-Outline.md` — the full session arc (check-in, active coaching, close, action plan). Load this when a session begins and use it to guide the structure of the conversation. Do not reload it every message.
+- [[Coaching-Session-Outline]] — the full session arc (check-in, active coaching, close, action plan). Load this when a session begins and use it to guide the structure of the conversation. Do not reload it every message.
 
 **Required reading before writing Instagram scripts:**
-1. `00-MOC/Tanya-Voice-Profile.md` only
+1. [[Tanya-Voice-Profile]] only
 
 **Reference only — NOT loaded per session:**
-- `00-MOC/System-Prompt-Rules.md` — human-readable mirror of the hardcoded rules in the Communication Device system prompt. Use this for debugging, auditing, or updating character rules. If something breaks in production, check here first, then verify it matches the code.
+- [[System-Prompt-Rules]] — human-readable mirror of the hardcoded rules in the Communication Device system prompt. Use this for debugging, auditing, or updating character rules. If something breaks in production, check here first, then verify it matches the code.
 
 ---
 
