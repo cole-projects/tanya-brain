@@ -18,17 +18,13 @@ type: moc
 - **Before responding to a client:** Read their `profile.md` + check [[Client-Response-Protocol]] for triage guidance
 - **After a new session:** Update the client's `profile.md` with anything new that emerged
 
-> Clients with a profile (memory layer): [[02-Client-Sessions/Client Profiles/15ee3d91bb9777ac971c208fa739c525e04ac929764b7f08958286f96bbd17da|JC]]
+> Clients with a profile (memory layer): *none currently*
 
 ---
 
 ## Clients
 
-### JC
-- [[02-Client-Sessions/15ee3d91bb9777ac971c208fa739c525e04ac929764b7f08958286f96bbd17da/Session 1|Session 1]]
-- [[02-Client-Sessions/15ee3d91bb9777ac971c208fa739c525e04ac929764b7f08958286f96bbd17da/Session 2|Session 2]]
-- [[02-Client-Sessions/15ee3d91bb9777ac971c208fa739c525e04ac929764b7f08958286f96bbd17da/Session 3|Session 3]]
-*Primary themes: product launch, nervous system, embodied resilience*
+*No active clients. Add new client folders here as sessions begin.*
 
 ---
 
@@ -58,4 +54,4 @@ type: moc
 
 ---
 
-*Last updated: 2026-05-18 — vault reset, fresh start for TanyaTalk launch*
+*Last updated: 2026-05-20 — cleared active clients, fresh slate*

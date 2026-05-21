@@ -23,7 +23,7 @@ type: hub
 
 > Full memory layer — read before every conversation. All profiles stored by phone hash.
 
-- [[02-Client-Sessions/Client Profiles/15ee3d91bb9777ac971c208fa739c525e04ac929764b7f08958286f96bbd17da|JC]] — Not Safe / Not Worthy · Early · Nervous system capacity to match mental resilience
+*No active clients.*
 
 ---
 
@@ -31,8 +31,8 @@ type: hub
 
 | Client | Sessions | Profile |
 |---|---|---|
-| [[02-Client-Sessions/15ee3d91bb9777ac971c208fa739c525e04ac929764b7f08958286f96bbd17da\|JC]] | 3 | [[02-Client-Sessions/Client Profiles/15ee3d91bb9777ac971c208fa739c525e04ac929764b7f08958286f96bbd17da\|Profile]] |
+| — | — | — |
 
 ---
 
-*Last updated: 2026-05-18*
+*Last updated: 2026-05-20*
