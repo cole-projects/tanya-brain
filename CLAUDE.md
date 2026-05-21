@@ -153,7 +153,7 @@ A client texts a dedicated iMessage phone number. The message arrives via an iMe
 
 ## The Brain
 
-The brain is an Obsidian vault containing Tanya's coaching frameworks (including BecomingYou), session notes, client profiles, wound tracking, and her methodology. It is stored as local markdown files on a Railway persistent volume. Sync to Railway is not yet set up — no GitHub repo is used for tanya_brain.
+The brain is an Obsidian vault containing Tanya's coaching frameworks (including BecomingYou), session notes, client profiles, wound tracking, and her methodology. The vault is version-controlled in a private GitHub repo (`cole-projects/tanya-brain`). Railway pulls from this repo — every `git push` updates the production vault on Railway. The GitHub repo is the source of truth for both local development and production.
 
 ## The Voice
 
