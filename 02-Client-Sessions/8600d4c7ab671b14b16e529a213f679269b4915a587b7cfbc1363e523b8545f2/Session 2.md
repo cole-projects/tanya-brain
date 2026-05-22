@@ -28,7 +28,6 @@
 
 **Tanya:** I've saved our session. When you're here, I'm here. 💛
 
-
 <!-- session:closed -->
 
 ## Follow-Up Extraction
