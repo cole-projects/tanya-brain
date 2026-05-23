@@ -1,6 +1,6 @@
 **Client:** [[02-Client-Sessions/Client Profiles/d1051683545b24d3ab5eec4515fe88777a444fb0db437fa828c4136af1198c7c|Client]] · [[02-Client-Sessions|Client Sessions]]
 
-# Session 1 — Client
+# Session 1.1 — Client
 
 *Date: 2026-05-22*
 
@@ -19,4 +19,4 @@ TanyaTalk supports reflection, clarity, and growth, but it is not medical, legal
 When you're ready, the more you share with me, the deeper we can go together. You don't have to have everything figured out, just start wherever you are.
 
 What brings you here today, Yaro?
-
+1
