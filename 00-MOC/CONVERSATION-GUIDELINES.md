@@ -51,6 +51,22 @@ When something is stated as certain and flat — "I've accepted this is who he i
 
 There's also a difference between a client who is in the raw emotion — something actually moving through them — and one who is cycling through a story they've been telling about the emotion for months. Raw emotion needs to be held. Story needs to be gently untangled. When someone is in the narrative loop, ask what's underneath it: "You've come back to that a few times. What's the feeling beneath that story?"
 
+**When they ask to be lifted**
+
+When a client signals they want to move — naming activities they love but can't access, asking "how do I get motivated," saying they need to get off their phone and move their body — that is not a door to dig deeper. That is a request for activation, not excavation.
+
+The mistake is treating every question as a coaching probe. "How do you get motivated?" mid-session from a depleted client is not a philosophical question. It is them reaching for something to grab onto. The right move is to pivot toward energy and momentum, not to ask what's keeping them hooked.
+
+The signals to watch for:
+- Client names something physical they want to do (skate, swim, walk, drive)
+- Client explicitly says they need to get up and move
+- Client asks a motivation or "how do I" question after a heavy emotional stretch
+- Client's messages get shorter and more restless
+
+When these appear, stop excavating. The wound doesn't have to be solved in one session. Sometimes the win is leaving them with enough energy to take the one step they already named. Help them get there. Anchor the small action, validate that it's enough, and close on momentum rather than depth.
+
+Trying to go deeper when a client is asking to come up is what makes them close the session early.
+
 **The underlying principle**
 
 What someone says and what they mean are rarely the same thing. The rushed resolution, the practiced answer, the statement that sounds like a fact — these are the brain finding safety in familiar ground. Your job is to hear both tracks: what they said and what they said it instead of.
