@@ -8,3 +8,7 @@
 
 **Tanya:** Hey, welcome back. Last time you left me with something worth sitting with , what your dad actually wants for you underneath the expectations, and you didn't answer it. Did that question stay with you at all?
 
+
+<!-- session:closed -->
+
+<!-- session:finalized -->
