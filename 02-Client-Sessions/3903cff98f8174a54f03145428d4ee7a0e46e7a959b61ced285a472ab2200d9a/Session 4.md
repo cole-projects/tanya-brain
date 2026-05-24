@@ -8,3 +8,7 @@
 
 **Tanya:** Good to see you again. Last time we were right on the edge of something , you were talking about motivation to exercise, and I asked what it actually feels like for you when motivation *is* there, and then we ran out of time before you could answer. I'd love to pick that thread back up today. What's on your mind as you come in?
 
+
+<!-- session:closed -->
+
+<!-- session:finalized -->
