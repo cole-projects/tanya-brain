@@ -1,6 +1,6 @@
 **Client:** [[02-Client-Sessions/Client Profiles/4945277ce291ee1597032fa1ae19cf64080a121ffec572123ce94256245adaa8|Client]] · [[02-Client-Sessions|Client Sessions]]
 
-# Session 1 — Client
+# Session 0 — Client
 
 *Date: 2026-05-24*
 
