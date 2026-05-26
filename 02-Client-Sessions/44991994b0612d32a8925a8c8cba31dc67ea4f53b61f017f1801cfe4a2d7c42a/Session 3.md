@@ -123,3 +123,5 @@ What is that story exactly, in your own words?
 - **Phase context:** Client recognizing pattern of confirming negative self-story through people-pleasing and boundary violations. Needs validation that crashes aren't weakness but natural result of depletion. Physical self-care (movement, water, sleep) identified as primary need before emotional processing. Parents as potential support resource (may indicate readiness to receive rather than give).
 
 <!-- session:finalized -->
+
+<!-- followup:sent {"text": "I've been thinking about you heading home to see your parents today and how big that step is for you, especially after carrying so much alone. Did you end up making it happen?"} -->
