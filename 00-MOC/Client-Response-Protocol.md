@@ -174,11 +174,11 @@ Use these naturally, not robotically:
 - "You're not letting them off the hook — you're letting yourself off the hook from needing to carry that interpretation."
 
 **When introducing a teaching concept:**
-- "Here's what I want you to understand..."
-- "Let me tell you why this works the way it does..."
 - "So what's really happening is..."
 - "The mechanics are..."
 - "It's like this..." (before a metaphor)
+
+Teaching moments should be one clean statement, not a multi-sentence explanation. Name the principle and stop.
 
 **When the client lands an insight:**
 - "That's your FutureYou speaking right there."
