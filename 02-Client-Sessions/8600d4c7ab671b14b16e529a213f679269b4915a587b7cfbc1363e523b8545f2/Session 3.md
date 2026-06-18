@@ -184,3 +184,5 @@ away
 - **Phase context:** Client is in early trauma-informed relationship repair work. Deep protective patterns identified but not yet addressed with concrete tools. Needs grounding in safety before pursuing romantic vulnerability. Recent assault has intensified existing trust wounds. Ready to explore connection between nervous system protection and relationship sabotage,but overwhelmed by accumulation of past harm.
 
 <!-- session:finalized -->
+
+<!-- followup:sent {"text": "I keep thinking about what you said about that younger version of you who wanted to love freely, before all of it happened. That took real courage to name. Have you noticed that part of you showing up at all since we talked?"} -->
