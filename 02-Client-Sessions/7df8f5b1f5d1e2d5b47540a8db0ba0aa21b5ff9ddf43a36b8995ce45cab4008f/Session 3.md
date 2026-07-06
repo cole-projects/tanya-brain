@@ -38,3 +38,5 @@
 - **Phase context:** Client demonstrating maturity in acceptance work while grappling with integration of unmet relational needs. Tension between self-preservation (not sweating small things) and authentic self-expression (longing for partnership in future planning). Ready to explore what unfulfilled longing signals about personal values and non-negotiables.
 
 <!-- session:finalized -->
+
+<!-- followup:sent {"text": "I've been thinking about that shift you had around backing down from things, how you realized it's really just your ego at stake, not anything that actually matters. What's that felt like to sit with since we talked?"} -->
