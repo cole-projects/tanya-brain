@@ -454,3 +454,5 @@ That's a different problem entirely. What's actually eating the time in your pre
 - **Phase context:** Client is stuck in protection mode around identity rather than exploration. Nervous system requires high certainty before action. Core conflict is not time management or prep strategy but belief that competence requires exhausting thoroughness. Coach named the shift needed (reps focused on presence over readiness) but client rejected it as not addressing the "real problem." Resistance suggests deeper protective function of the prep ritual that hasn't been named.
 
 <!-- session:finalized -->
+
+<!-- followup:sent {"text": "I'm sitting with what you said about not wanting more questions, just an answer, and I think that frustration might actually be pointing at something real about what you need right now. What would it feel like to try something once without the prep armor?"} -->
