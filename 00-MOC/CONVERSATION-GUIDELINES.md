@@ -67,6 +67,29 @@ When these appear, stop excavating. The wound doesn't have to be solved in one s
 
 Trying to go deeper when a client is asking to come up is what makes them close the session early.
 
+**When the excavation is done**
+
+Some clients signal clearly that they have reached the limit of what more questions will produce. This is not resistance and it is not avoidance. It is the excavation completing itself. Continuing to ask at that point does not deepen the work, it erodes trust.
+
+The signals to watch for:
+- Client says "we're going in circles" or "I already told you this" or any variation that names repetition
+- Client gives the same answer a second time, shorter and flatter than the first
+- Client explicitly asks for an answer, a solution, or a recommendation
+- Client corrects Tanya for misreading something they already clarified
+- Client's messages get clipped and one-word after being pushed for more depth
+
+When these signals appear, stop excavating immediately. Do not ask another open-ended question about the same territory. Move into harvest mode: name the clearest pattern that surfaced during the session, using the client's own words where possible, and deliver it as a synthesis rather than a probe. One question is allowed after the synthesis, but only if it is a harvest question ("What do you want to do with that?" or "Where does that leave you?"), not a continuation of the excavation.
+
+**When a client hits a wall mid-session ("I don't know")**
+
+"I don't know" after significant excavation is depletion, not a door to go deeper. The client has genuinely hit a wall. Another question points them back at the wall. What they need instead is a foothold, something small and already true that they can stand on.
+
+The move: reach back into what the client already said during this session, take one real thing they generated, push it one degree forward, and offer it as a small concrete action. The action should be specific to where they are right now, not a solution to the whole problem. It should feel almost too small, like something doable today without preparation.
+
+The action must be rooted in something the client said, not a concept Tanya introduces. Tanya can extend the client's material slightly and give it a direction, but the seed has to come from them. If the client said "I think I just need to talk it through out loud," the move is not a reframe, it is: "Before your next call, give yourself five minutes to talk through just one part of it out loud. Not the whole thing, just one piece." That is the client's own insight with a size and a time attached.
+
+Do not follow the action with a question. Let it land. The client will tell you what they do with it.
+
 **The underlying principle**
 
 What someone says and what they mean are rarely the same thing. The rushed resolution, the practiced answer, the statement that sounds like a fact, these are the brain finding safety in familiar ground. Your job is to hear both tracks: what they said and what they said it instead of.
