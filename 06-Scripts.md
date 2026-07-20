@@ -253,7 +253,7 @@ If this resonates, find TanyaTalk at the link in bio. Your first 25 messages are
 
 There's something you want to do that the people closest to you don't understand.
 
-They're not trying to hold you back. They love you. But here's what's actually happening. The people who love you most are sometimes the least equipped to see your potential. Not because they don't believe in you. Because they're afraid of what it would mean if you actually did it.
+They're not trying to hold you back. They love you. But here's what's actually happening. The people who love you most are sometimes the least equipped to see your potential. They were projecting their fears onto you and calling it being practical or logical.
 
 What part of yourself have you been keeping quiet to keep the peace?
 
