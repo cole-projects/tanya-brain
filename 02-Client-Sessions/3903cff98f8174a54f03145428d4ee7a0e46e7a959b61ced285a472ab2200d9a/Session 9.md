@@ -68,3 +68,5 @@ What if the conversation wasn't about the scoreboard at all, but about the lonel
 - **Phase context:** Client is in early awareness of relational dynamic (scorekeeping as proxy for unmet need for attunement). Tanya guided from symptom (invisible tally) to root emotion (loneliness and desire to be seen). Reframing needed: shift from "he should notice" to "we both feel unseen" as entry point for dialogue.
 
 <!-- session:finalized -->
+
+<!-- followup:sent {"text": "I've been thinking about what you said about feeling lonely underneath all that scorekeeping, how you just want to be gotten without having to ask. That really stuck with me. Have you noticed any moments since we talked where you felt seen by him, even in small ways?"} -->
