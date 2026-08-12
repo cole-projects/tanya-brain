@@ -146,7 +146,7 @@ If this resonates, find TanyaTalk at the link in bio. Your first 25 messages are
 
 ## 9. Perfectionism
 *TikTok and Instagram | Perfectionists, high achievers | 30-70 audience*
-**Cover quote:** "The bar keeps moving."
+**Cover quote:** "Perfectionism."
 **Stock footage:** hands writing or working, someone at a desk late at night, close-ups of detail work. The feeling of effort that never quite lands.
 
 You know what done looks like. You just can never seem to get there.
@@ -164,16 +164,14 @@ If this resonates, find TanyaTalk at the link in bio. Your first 25 messages are
 
 ## 10. Comparison
 *TikTok and Instagram | People measuring themselves against others | 30-70 audience*
-**Cover quote:** "You compare up for a reason."
+**Cover quote:** "Comparison."
 **Stock footage:** someone looking at something in the distance, light through a window landing on someone else, a figure watching from the outside. The feeling of wanting what you see.
 
 You only compare yourself to people who have something you secretly want.
 
 Think about that. You don't compare yourself to everyone. Just certain people. The ones who are living something that's calling to you. Which means the comparison isn't really about them at all. It's your own desire trying to get your attention.
 
-The question isn't why you're not where they are. The question is why you haven't given yourself permission to want what you're already wanting.
-
-What is the comparison actually trying to tell you?
+The question isn't why you're not where they are. The question is what is the comparison actually trying to tell you?
 
 **Caption:**
 If this resonates, find TanyaTalk at the link in bio. Your first 25 messages are free.
@@ -182,12 +180,12 @@ If this resonates, find TanyaTalk at the link in bio. Your first 25 messages are
 
 ## 11. Too Much On Your Plate
 *TikTok and Instagram | Overwhelmed, overextended | 30-70 audience*
-**Cover quote:** "Everything needs you at once."
+**Cover quote:** "Too much on your plate."
 **Stock footage:** someone moving through a busy day but slowly, hands managing multiple things, a figure that keeps going even when tired. Busy but not chaotic. The feeling of too much that never stops.
 
-There's a version of your life where you have enough time.
+You keep telling yourself things will slow down.
 
-Right now that version feels far away. Work needs you. The people you love need you. And somewhere at the bottom of that list is you. Here's the thing nobody tells you. You don't get your time back by doing more. You get it back by being honest about what's actually yours to carry and what isn't.
+They won't. Work needs you. The people you love need you. And somewhere at the bottom of that list is you. Here's the thing nobody tells you. You don't get your time back by doing more. You get it back by being honest about what's actually yours to carry and what isn't.
 
 What's one thing on your plate right now that isn't actually yours?
 
@@ -251,6 +249,8 @@ If this resonates, find TanyaTalk at the link in bio. Your first 25 messages are
 **Cover quote:** "The dream didn't go away."
 **Stock footage:** creative spaces, hands doing something they love, someone looking at their work with quiet pride, light in a studio or workshop. The feeling of a dream that keeps showing up no matter what.
 
+Passion
+
 There's something you want to do that the people closest to you don't understand.
 
 They're not trying to hold you back. They love you. But here's what's actually happening. The people who love you most are sometimes the least equipped to see your potential. They were projecting their fears onto you and calling it being practical or logical.
@@ -283,13 +283,32 @@ If this resonates, find TanyaTalk at the link in bio. Your first 25 messages are
 **Cover quote:** "You earned this. Feel it."
 **Stock footage:** golden hour light, laughter caught in a quiet moment, sunlight on skin, hands held, someone pausing to look at something beautiful. Warm, soft, slow. The feeling of a good moment being fully felt.
 
-You're so used to waiting for the other shoe to drop that you can't enjoy what's actually here.
+You can't let yourself feel good. Not yet.
 
 Something good happens and instead of feeling it you start looking for what could go wrong. You've been disappointed enough times that letting yourself feel happy feels dangerous. Like if you celebrate too early you'll jinx it. Or like you don't quite deserve it yet.
 
 But the good moments aren't asking you to let your guard down forever. They're just asking for a few minutes of your full attention.
 
-What would it feel like to actually let this one land?
+Next time you have a good moment, pause and stay with it for a minute. I'd love to hear how how that felt.
+
+**Caption:**
+If this resonates, find TanyaTalk at the link in bio. Your first 25 messages are free.
+
+
+## 18. The Sanctuary Garden
+*TikTok and Instagram | People who avoid their emotions | 30-50 audience | Formula 2*
+**Cover quote:** "Your brain mislabeled it."
+**Stock footage:** a door slightly open with warm light behind it, someone standing at the edge of something, fog lifting over a garden, hands hesitating before reaching. The feeling of something close but not yet touched.
+
+Your brain has a place it won't let you go.
+
+You've brushed up against it -- the heavy stuff, the old stuff -- and it hurt. So your brain labeled it dangerous. Off limits. Don't go back.
+
+Here's the truth. That place your brain is calling the devil's den -- all that pain, all that fear -- that's actually where your peace lives. The garden is on the other side of the door your brain is guarding.
+
+Pause right now. Don't fix it. Just sit with whatever is heavy for 60 seconds.
+
+If you're ready to walk through that door, comment "I'm ready" below so I can send you a DM to have your first free session through TanyaTalk.
 
 **Caption:**
 If this resonates, find TanyaTalk at the link in bio. Your first 25 messages are free.

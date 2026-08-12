@@ -43,6 +43,28 @@ Every script follows this structure:
 
 ---
 
+## Script Formula 2 (Pain + Shift + Action CTA)
+
+Every script in this format follows three steps:
+
+1. **Relatable pain** -- Name the specific feeling or pattern and elaborate on it. Make the viewer feel seen before anything else. Be precise -- not "you feel bad" but the exact texture of how it feels.
+2. **The shift** -- "Here's the truth." Give them a reframe or a new way of seeing that they haven't heard before. This is the teaching moment. They should feel something move.
+3. **Two-part CTA:**
+   - Behavioral invitation: "Next time [X] happens, pause and [do this]." One small concrete action. Not a fix -- a first step. Frame it as an invitation, not an assignment.
+   - Comment prompt: Always one sentence. Opens with "If" tailored to the script's shift, includes the comment word (two words max, tied to the script), and ends with the free session offer. Format: "If [statement specific to this script's shift], comment [two words max] below so I can send you a DM to have your first free session through TanyaTalk." Example: "If you're ready to walk through that door, comment 'I'm ready' below so I can send you a DM to have your first free session through TanyaTalk."
+
+**The through-line:** The behavioral invitation flows from the shift. They just saw something new -- the action gives them a way to try it. The comment prompt bridges the shift to a conversation.
+
+**Note on CTA placement:** Unlike Formula 1, this format includes a spoken CTA in the video -- the comment prompt is said out loud. The caption still reads: "If this resonates, find TanyaTalk at the link in bio. Your first 25 messages are free."
+
+**Length rule for Formula 2:** 120 words maximum / 60 seconds max when spoken at Tanya's natural pace. Script #18 (The Sanctuary Garden) is the length standard -- use it as the reference.
+
+**Two rules before locking any script:**
+- Does the shift give them something true they haven't heard before?
+- Does the behavioral invitation feel like an invitation, not homework?
+
+---
+
 ## Stock Footage Direction
 
 Visuals should match the emotional tone of what is being said, not just the literal words. The footage sets the feeling before the viewer even processes the words.
