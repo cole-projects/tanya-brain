@@ -312,3 +312,48 @@ If you're ready to walk through that door, comment "I'm ready" below so I can se
 
 **Caption:**
 If this resonates, find TanyaTalk at the link in bio. Your first 25 messages are free.
+
+---
+
+## 19. Bracing for Heartbreak
+*TikTok and Instagram | People in relationships or situations who hold themselves back emotionally | 30-60 audience | Formula 3*
+**Cover quote:** "You can't pre-pay heartbreak."
+**Setting:** Tanya is getting ready in the morning -- putting on makeup, moving around the bathroom, sitting on the edge of the bed at the end. Soft natural light. Unhurried.
+
+**Clip 1 — Putting on makeup, not looking directly at camera**
+If you tend to brace for heartbreak before it even happens -- you might be paying for pain you haven't felt yet.
+
+**Clip 2 — Setting something down, slight pause**
+And here's what makes this so hard to see. It feels smart. It feels like you're protecting yourself. But I want to offer you a different way to look at it.
+
+**Clip 3 — Looking up briefly, naturally**
+By the way, I'm Tanya. I'm a life coach, and I built TanyaTalk so people can actually work through patterns like this one -- whenever they need to, not just when they can get an appointment.
+
+**Clip 4 — Still getting ready, thoughtful**
+When you brace for heartbreak, you're not protecting future you from the pain. You're just living the heartbreak early. And you're robbing present you of the only good part -- which is right now.
+
+**Clip 5 — Moving to another part of the room**
+You know what this looks like. Things are going well. Someone is showing up for you. And then something in you goes... wait. How long is this going to last? So you hold yourself just slightly back. Not fully in. Not letting yourself feel the full weight of how good this actually is. Just in case.
+
+**Clip 6 — Sitting down, more still**
+Here's what your brain thinks it's doing. It thinks if you don't let yourself fully feel the good, then when the bad comes, it won't hit as hard. But that's not how heartbreak works. The pain, if it comes, is going to hurt exactly as much as it was always going to hurt. You don't get to pre-pay it and get a discount later. You just miss the good part while you were waiting.
+
+**Clip 7 — Directly to camera**
+And this is what I want you to really hear. The armor doesn't protect you. It just starts the pain sooner. And in the meantime, you are not fully there for the thing you actually want.
+
+**Clip 8 — Slower, coaching moment**
+Think about something in your life right now -- a relationship, a situation, something that's actually going well -- where you've already started to pull back just a little. Where you've been holding your breath.
+
+Now ask yourself: what would it feel like to just be fully in it? Not naive. Not pretending nothing could go wrong. Just... here.
+
+Say it with me: "I'm here now."
+
+**Clip 9 — Natural, warm close**
+If you've been holding back from something good, go in the comments and type "I'm here now."
+
+And if you know someone who's been waiting for the other shoe to drop -- send them this. Because the good part is happening right now.
+
+And if this is a pattern you want to actually work through -- not just think about -- I run a 16-week Inner Circle Coaching Program called BECOMINGYOU. The link is in my bio.
+
+**Caption:**
+If this resonates, find TanyaTalk at the link in bio. Your first 25 messages are free.
