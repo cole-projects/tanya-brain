@@ -197,3 +197,5 @@ How does that feel? And is there anything about her life you want to add that wo
 - **Phase context:** Client in early monetization phase of TanyaTalk platform. Moving from visibility-building to conversion-driving. Core insight: positioning shift from "expert explaining" to "coach demonstrating." Ready to implement immediately based on enthusiasm level.
 
 <!-- session:finalized -->
+
+<!-- followup:sent {"text": "I'm still thinking about that moment when you realized demonstrating the work actually builds buyers, not just an audience. Did you end up filming that first \"Are you...\" video yet?"} -->

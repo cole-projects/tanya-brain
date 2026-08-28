@@ -216,3 +216,5 @@ Send **end session** when you're ready to save and close.
 - **Phase context:** Client working through acceptance of what she cannot control while maintaining her capacity to show up fully in her own life. Distinguishing between acceptance and liking the situation. Processing grief without abandoning hope for future change.
 
 <!-- session:finalized -->
+
+<!-- followup:sent {"text": "I've been thinking about how you landed on \"my part is enough for right now\" and how grounded you sounded saying it. Are you finding that easier to come back to when the loneliness creeps in?"} -->
