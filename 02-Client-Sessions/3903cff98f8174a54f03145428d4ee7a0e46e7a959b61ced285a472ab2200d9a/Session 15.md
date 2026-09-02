@@ -396,3 +396,5 @@ You ready for another one?
 - **Phase context:** Client is deepening skill in finding the human cost beneath presenting situations. Showing increased precision in naming layered emotions (grief plus self-judgment, loneliness inside comfort). Still developing confidence in producing reflections on demand but demonstrating the underlying conceptual clarity.
 
 <!-- session:finalized -->
+
+<!-- followup:sent {"text": "I've been thinking about that moment you described where you can see the move so clearly in your head but then it just won't come out, and how that felt like proof something was off. I really meant it when I said eight scenarios in is exactly when that gap shows up for everyone. Did you get a chance to work through any coaching moments this week, even just mentally?"} -->
