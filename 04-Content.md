@@ -28,7 +28,22 @@ Scripts must not exceed 40 seconds when spoken at Tanya's natural pace. Roughly 
 
 ---
 
-## Script Formula
+## Cover Image Rule
+
+Each video cover uses a short punchy quote pulled directly from the script -- the emotional core of the video in one line.
+
+- Dark background
+- Spiral subtle in the background
+- Quote in clean white or teal text
+- "TanyaTalk" small at the bottom
+
+The quote should make someone stop scrolling and want to know what comes next. If it could apply to anyone about anything, it's not specific enough.
+
+**6 words maximum.** If it runs longer, cut it until it hits harder.
+
+---
+
+## Script Formula 1 (Voiceover + Stock Footage)
 
 Every script follows this structure:
 
@@ -40,6 +55,58 @@ Every script follows this structure:
 **Two rules to check before locking any script:**
 - Does it give value, not just name a problem?
 - Does the ending open a door without naming TanyaTalk as the answer?
+
+### Stock Footage Direction
+
+Visuals should match the emotional tone of what is being said, not just the literal words. The footage sets the feeling before the viewer even processes the words.
+
+**General rule:** calm, slow, beautiful. Nature, light, texture, space. Nothing busy or fast-moving.
+
+**Match the mood of the script:**
+- Anxiety / overthinking → slow water, foggy mornings, empty roads, rain on glass
+- Loneliness / feeling unheard → empty rooms, single figures in open spaces, sunsets alone
+- Freedom / what you want → open skies, wide landscapes, light through trees, ocean horizon
+- Carrying too much → someone walking alone, hands holding things, tired but still moving
+- Something missing → still life, empty chairs, light fading, windows looking out
+- The good moments → golden hour, laughter, hands held, sunlight on skin
+- Family / relationships → soft domestic moments, people together but not posed
+- Passion / dreams → creative spaces, hands working, someone in motion doing what they love
+
+**Pacing:** one clip every 4-6 seconds. Let each clip breathe. Do not cut fast.
+
+**What to avoid:** stock footage that looks too polished or corporate, people looking directly at camera, anything that feels like an ad.
+
+### Attention Architecture
+
+How every video is structured to stop the scroll and hold attention through to the end.
+
+**The sequence:**
+
+1. **Hook frame (0-2 seconds)** -- the most powerful line from the script as text on screen, over a clip that matches the emotional territory of the video. This is the only job of this frame: stop the scroll. No logo. No branding. Just the line and the right footage behind it.
+
+2. **Snap with audio (half second)** -- hard cut to black with a snap sound. Pattern interrupt. Signals that something is about to happen. The audio snap stops people who are scrolling with sound on.
+
+3. **Tanya's voice begins** -- immediately after the black. Voice over relevant footage. Captions synced to the words throughout.
+
+4. **End card** -- spiral + TanyaTalk logo only. No spoken CTA. The caption handles the CTA.
+
+**What the hook frame must do:**
+The first frame is the only thing that determines whether someone watches. It has to make a person stop mid-scroll and think "wait, what is this." Use the sharpest line from the script -- the one that names something they've never heard articulated that clearly. That line goes on screen in the first two seconds over footage that amplifies the feeling.
+
+**What to never do at the start:**
+- Do not open with a logo
+- Do not open with footage that has no emotional context (grass, feet, blurry movement)
+- Do not open with anything that reads as an ad or brand intro
+
+**Location:**
+Use Cleveland, Ohio as the location tag. Not a specific neighborhood. Broad enough that Instagram's algorithm can distribute to the right interest-based audience without being artificially restricted.
+
+**Collaborators:**
+Tag MESH Coaching and @tanyawannemacher as collaborators to extend reach across both accounts.
+
+### Music
+
+Peaceful meditation music is correct for the emotional tone. Layer a trending sound at 5-10% volume underneath it when uploading to TikTok and Instagram. The trending sound runs silently in the background and tags your video to that sound's traffic distribution. Keep the meditation music dominant.
 
 ---
 
@@ -90,47 +157,68 @@ The video should feel like a **mini coaching session** -- not a lecture, not a m
 
 ### The 12-Step Script Structure
 
-**1. Outcome-Based Hook**
-Start with something the viewer wants to feel, solve, or change. Do not start with Tanya's name. Do not explain the topic. Lead with what the video will do for them.
+**1. Open Loop Hook (Contrarian Hook)**
+This is the technique that drags the viewer past the first 5 seconds. Make a bold, specific statement and immediately signal that what comes next is going to reframe something they thought they already understood. Do not resolve the tension here. Do not introduce Tanya. Do not name the topic. Open the loop and walk away from it.
+
+The first line must contain the word "one" -- one thing, one concept, one sign, one reason, one shift. This creates an implicit promise that the video is specific and contained.
+
+Three proven variants -- pick the one that fits the topic:
+- **The Withheld Truth:** "There is one thing nobody ever teaches you about X -- and once you see it, you cannot unsee it."
+- **The Uncomfortable Truth:** "There is one thing happening inside you when you do X -- and you're probably not going to like it."
+- **The Reframe:** "You've been thinking about X your whole life -- but there is one thing you may not have seen yet."
+
+The hook must end with a phrase that withholds the payoff and creates forward pull. The viewer's brain needs an open question it has to close.
+Examples: "and once you see it, you cannot unsee it" / "and it's costing you more than you think" / "and most people never catch it" / "and you've probably never questioned it."
 
 *Instead of:* "Today I want to talk about dropping your child off at college."
-*Say:* "If you're a mom dropping your kid off at college, there's one thing that can make this whole transition a little easier."
+*Say:* "If you're a mom dropping your kid off at college, there's one thing nobody prepares you for -- and it's not what you think it is."
 
-**2. Tension / Open Loop**
-Immediately introduce resistance or curiosity so they keep watching.
-Examples: "And honestly, you might not like it at first." / "This is probably the opposite of what you've been telling yourself."
+**2. Deepen the Loop (mandatory)**
+Do not close the loop yet. Do not introduce Tanya yet. Do not explain what "it" is. This clip's only job is to make the viewer feel like you're talking directly about them -- without giving them any information. Stay completely in the mystery. The less you say here, the more they need to keep watching.
 
-**3. Introduce Tanya + TanyaTalk Early**
-One sentence. After the hook, before the lesson. Establishes authority, names the product, explains what it does -- all before a large percentage of viewers have a chance to leave.
-Example: "By the way, I'm Tanya. I'm a life coach, and I built TanyaTalk so people can actually talk through moments like this when they need more than a short video."
+**The mystery rule:** Clip 2 should feel like you're circling something without naming it. Reference "it" without defining it. Describe the feeling or the timing without revealing the mechanism. Two sentences maximum. If the viewer could figure out the answer from Clip 2 alone, rewrite it.
+
+This clip is what carries the viewer past the intro. By the time Clip 3 introduces Tanya, the viewer is already pulled in.
+Example: "It happens before you're even fully awake. Most people go their whole lives without catching it."
+
+**3. Introduce Tanya + Cole + TanyaTalk**
+The viewer is now invested. The intro lands here -- not at Clip 2 -- because they have a reason to care who's talking. Keep it clean and brief. Do not name the pattern here. Tanya introduces herself first, then Cole introduces himself as the builder and CEO of TanyaTalk.
+Format: "By the way, I'm Tanya. I'm a life coach. And I'm Cole -- I'm a builder and the CEO of TanyaTalk. We built it for people who can feel the gap between who they are now and who they're becoming -- and are ready to do something about it."
 
 **4. Memorable Core Thesis**
-One short sentence that is the intellectual and emotional center of the video. Everything else supports it.
+Close the loop. This clip picks up directly where Clip 1 left off by mirroring its exact language. Whatever Clip 1 teased -- "one shift," "one thing," "one truth" -- Clip 4 opens by completing that sentence. The listener has been waiting for this.
+Format: "The [word from Clip 1] [echo the rest of Clip 1's phrasing] is..." then deliver the thesis immediately after.
+Example: if Clip 1 says "there is one thing nobody teaches you about your thoughts," Clip 4 opens with "the one thing nobody teaches you about your thoughts is this..." then lands the thesis.
+The thesis itself should be one short sentence that is the intellectual and emotional center of the video. Everything else supports it.
 Examples: "Both can be true." / "Confidence is not certainty." / "Clarity sometimes comes after the decision."
 
-**5. Emotional Recognition**
-Describe what the viewer is actually experiencing using concrete moments, not abstract language. The viewer should think: *"That's literally me."* Use familiar thoughts they are already having.
+**5/6. Emotional Recognition + Mechanism (can be one clip)**
+These two steps can be combined into a single clip to keep the video tight. Describe what the viewer is actually experiencing using concrete moments -- familiar thoughts they are already having -- then immediately explain why that pattern is making things harder without a break between them.
+Structure: recognition flows directly into mechanism ("Your brain thinks... but here's the truth...").
+The viewer should think: "That's literally me" and then "Oh. That's why I keep doing this." in the same clip.
 
-**6. Explain the Mechanism**
-Don't just tell them what to do -- explain why their current pattern is making the situation harder.
-Structure: **behavior → psychological/emotional consequence**
-Example: "You start telling yourself 'I shouldn't feel this way.' And now you're not just sad. You're sad and you feel guilty for being sad."
-This is often the moment the viewer thinks: *"Oh. That's why I keep doing this."*
+When the topic involves internal thought patterns, open with: "You might be thinking things like..." followed by 2-3 short quoted thoughts the viewer will recognize in themselves. Then flow directly into the mechanism without a break.
+Example: "You might be thinking things like... 'I always end up here.' 'Nothing is changing.' 'Nobody really gets me.' Those things might all be true. But here's what's tricky..."
+
+Only split into two clips if the topic is complex enough that each part needs room to breathe.
 
 **7. Reframe**
-Replace their existing interpretation with a healthier one. Keep it simple. Then reinforce the thesis.
+Replace their existing interpretation with a healthier one. Keep it to one or two sentences. The strongest reframes use a two-part construction that first dismantles the wrong goal then names the right one.
+Format: "The goal is not to [what they're currently trying to do]. The goal is to [the actual shift]."
+Example: "The goal is not to argue with the thought or tell yourself it isn't true. The goal is to stop it from being the only thought."
 
-**8. Live Coaching Moment**
-Make the viewer participate. Do not only explain -- make them do something.
-Examples: "Actually, try this with me." / "Take a breath with me." / "Think about that decision right now."
-
-**9. Memorable Phrase or Question**
-The coaching moment culminates in one line they can carry with them.
-Examples: "I can be proud of them and still let this be hard." / "If nobody else had an opinion, what would I want?"
+**8/9. Live Coaching Moment + Memorable Phrase (one clip)**
+These always live in the same clip. Make the viewer participate, then land the phrase they walk away with.
+Always open with: "Try this right now." This signals a shift from teaching to doing and slows the viewer down.
+Structure: "Try this right now." → prompt or step-by-step instruction → question that makes them feel something → "Say it with me: '[phrase].'"
+The phrase is the same one used in the comment CTA. It should be 4 words maximum and emotionally true enough that the viewer wants to say it out loud.
+Example: "Try this right now. Write down the thought that keeps circling. Then ask yourself -- if I keep thinking this, what emotional state will I be in? Then find one thought that can sit right beside it. Say it with me: 'Think beside it.'"
 
 **10. Comment CTA as Part of the Coaching**
 Do not use generic requests. Make commenting feel like an act of commitment.
-Example: "If you need to remember that, go in the comments and type 'both can be true.'"
+Every comment CTA ends with "to claim it." This makes the act of commenting feel like the viewer is owning the shift, not just engaging with a post.
+The comment phrase itself must be 4 words maximum. Shorter is better. It needs to be easy to type and emotionally true enough that the viewer wants to say it.
+Example: "If you need to remember that, go in the comments and type 'both can be true' to claim it."
 Good comment phrases: short, emotionally tied to the lesson, easy to type, something the viewer wants to claim.
 
 **11. Specific Share CTA**
@@ -138,10 +226,11 @@ Give them a specific person to send it to.
 *Instead of:* "Share this video."
 *Say:* "Send this to a mom who's about to make that drive home."
 
-**12. TanyaTalk as the Deeper Layer**
-TanyaTalk is not an unrelated product. It is the next layer of what Tanya just started in the video.
-The funnel: **TikTok identifies the problem → Tanya reframes it → viewer experiences a small shift → TanyaTalk lets them personally work through it.**
-One natural sentence is enough. No sales pitch.
+**12. BecomingYOU as the Deeper Layer**
+Do not end with TanyaTalk. End with the BecomingYOU program. It is the natural next step for someone who just had a coaching moment and wants to go deeper.
+One sentence. Name the program, name the format, put the link in the bio. No sales pitch.
+Example: "And if this is a pattern you want to actually work through -- not just think about -- I run a 16-week Inner Circle Coaching Program called BECOMINGYOU. The link is in my bio."
+The funnel: **TikTok identifies the problem → Tanya reframes it → viewer experiences a small shift → BecomingYOU is where they do the real work.**
 
 ---
 
@@ -156,7 +245,7 @@ Do not film the entire video as one continuous take. Break the script into appro
 The result feels like a continuous conversation even though it was recorded in pieces.
 
 **One Thought Per Clip**
-Clip 1: Hook / Clip 2: Tension / Clip 3: Tanya + TanyaTalk / Clip 4: Thesis / Clip 5: Emotional recognition / Clip 6: Mechanism / Clip 7: Reframe / Clip 8: Coaching moment / Clip 9: Comment + share CTA
+Clip 1: Open loop hook (contrarian statement + "one" + tension signal) / Clip 2: Deepen the loop (make it personal, stay in tension, no intro yet) / Clip 3: Tanya + TanyaTalk intro / Clip 4: Close the loop -- pattern name + thesis / Clip 5: Emotional recognition + Mechanism / Clip 6: Reframe / Clip 7: Coaching moment + memorable phrase / Clip 8: Comment CTA ("to claim it") + specific share CTA + BecomingYOU
 
 **Do Not Memorize Every Word**
 The script is the intellectual structure. Tanya should understand what each clip needs to communicate and then say it naturally. Natural filler is good: "Honestly..." / "Like..." / "Here's the thing..." / "I mean..." Small pauses, slight imperfect phrasing, restarting a sentence -- all of this is good. Goal: **structured thinking + unstructured delivery.**
@@ -167,141 +256,64 @@ Not every line has the same energy. Hook: direct. Recognition: conversational. M
 **Ideal Length**
 60--75 seconds for most videos. Some compress to 30--45 seconds. Strong stories can run to 75--90 seconds. Do not cut if cutting removes the mechanism, the coaching moment, or the emotional recognition. Retention comes from emotional relevance, not speed.
 
+**Timing Calibration (Tanya's reading pace)**
+363 spoken words = 1 minute 45 seconds at natural delivery pace (~207 wpm). Use this as the reference when estimating script length. Do not include clip subheaders in the word count -- count spoken content only.
+
 ---
 
 ### Complete Formula (Quick Reference)
 
-**Script:** Outcome hook → Tension → Tanya + TanyaTalk → Thesis → Emotional recognition → Mechanism → Reframe → Coaching moment → Memorable phrase → Comment commitment → Specific share CTA → TanyaTalk as deeper layer
+**Script:** Open loop hook with "one" + tension signal → Deepen the loop (personal, no intro) → Tanya + TanyaTalk intro → Close the loop: pattern name + thesis → Emotional recognition + Mechanism → Reframe → Coaching moment + memorable phrase → Comment CTA ("to claim it") + specific share CTA + BecomingYOU
 
 **Delivery:** Casual activity → One thought → Stop recording → Continue activity / slight visual change → Next thought → Stop → Repeat
 
 **Core principle:** The finished video should feel like Tanya happened to be doing something, started talking about something she genuinely understands, coached the viewer for a moment, and naturally made them aware that TanyaTalk exists if they want to go deeper.
 
----
-
-### Example: Mom Dropping Her Child Off at College
-
-Tanya is in the kitchen making coffee. Each clip is a separate recording.
-
-**Clip 1 — Pouring coffee**
-If you're a mom dropping your kid off at college, there's one thing that can make this whole transition a little easier.
-
-**Clip 2 — Putting the coffee pot down**
-And honestly, you might not like it at first, because it kind of goes against what you think you're supposed to feel.
-
-**Clip 3 — Grabbing her mug**
-By the way, I'm Tanya. I'm a life coach, and I built TanyaTalk so people can actually talk through moments like this when they need more than a short video.
-
-**Clip 4 — Walking toward the table**
-But here's the thing. You can be incredibly proud of your kid and still be really sad that they're leaving. Both can be true.
-
-**Clip 5 — Sitting down with the coffee**
-Like, you can spend the whole day helping them move into their dorm, taking pictures, making sure they have everything they need, telling them how excited you are for them... and then you get back in the car and it just hits you.
-
-**Clip 6 — Casually holding the mug**
-And maybe you're thinking, "Why am I this upset? This is a good thing." Or, "This is literally what I raised them to do." And yes. It is. But you're also saying goodbye to a version of your life.
-
-**Clip 7 — More directly to camera**
-And this is where I think a lot of moms accidentally make it harder on themselves. You start telling yourself, "I shouldn't feel this way." And now you're not just sad. You're sad and you feel guilty for being sad.
-
-**Clip 8 — Slower / coaching moment**
-So instead of trying to make the sadness disappear... just let both things be true. "I'm so proud of you." And... "This is really hard for me." Actually, take a breath with me. Breathe in. And breathe out. And say: "I can be proud of them and still let this be hard."
-
-**Clip 9 — Natural ending**
-And if you need to remember that, go in the comments and type "Both can be true." And if you know a mom who's about to make that drive home, send this to her. Because she might really need to hear it.
+**No Repeated Language Across Scripts**
+Every script follows the same structure but must use different words. Do not reuse the same sentence starters, phrases, or structural language from a previous Formula 3 script. The clips serve the same function each time -- the language must be fresh each time. Before writing a new script, read Scripts 20 and 21 -- those are the model references. Make sure none of the clip openers or key phrases from those two scripts are repeated.
 
 ---
 
-## Stock Footage Direction
+## Script Formula 4 (Daily Challenge Series)
 
-Visuals should match the emotional tone of what is being said, not just the literal words. The footage sets the feeling before the viewer even processes the words.
+Title: **"Day X of asking my followers what they would ask a life coach -- until 50K"**
 
-**General rule:** calm, slow, beautiful. Nature, light, texture, space. Nothing busy or fast-moving.
+The challenge grows the audience. Every answer video is a live demo. The free trial converts viewers to paid subscribers. Do not make the challenge about paid users -- the challenge IS the ad for paid users, just without feeling like one.
 
-**Match the mood of the script:**
-- Anxiety / overthinking → slow water, foggy mornings, empty roads, rain on glass
-- Loneliness / feeling unheard → empty rooms, single figures in open spaces, sunsets alone
-- Freedom / what you want → open skies, wide landscapes, light through trees, ocean horizon
-- Carrying too much → someone walking alone, hands holding things, tired but still moving
-- Something missing → still life, empty chairs, light fading, windows looking out
-- The good moments → golden hour, laughter, hands held, sunlight on skin
-- Family / relationships → soft domestic moments, people together but not posed
-- Passion / dreams → creative spaces, hands working, someone in motion doing what they love
+You pick one question from the comment section each day, ask TanyaTalk live, show the response, and post it. 15-30 seconds max. Repeat daily until 50K followers.
 
-**Pacing:** one clip every 4-6 seconds. Let each clip breathe. Do not cut fast.
+**The loop:**
+1. Post the question video -- ask followers what they would ask a life coach, tell them to drop it in the comments
+2. Comments flood in with questions for tomorrow
+3. Pick the best one
+4. Ask TanyaTalk live, screen record the response
+5. Post it as Day X+1 -- end every answer video with "your first 25 messages are free, link in bio"
 
-**What to avoid:** stock footage that looks too polished or corporate, people looking directly at camera, anything that feels like an ad.
+**The two-video structure:**
+- **Question video:** "Day X -- drop the one question you'd ask a life coach right now and we'll answer it tomorrow." Short, direct, drives comments.
+- **Answer video:** show TanyaTalk answering the question live. If the question came from a paid TanyaTalk member, call them out by name -- "this question came from [name], a TanyaTalk member." Close with "your first 25 messages are free -- link in bio."
 
----
+**Why it works:**
+- Shows the product working in real time every single day
+- Comment section drives the content -- viewers are invested because they submitted a question
+- Algorithm rewards the daily comment volume
+- Builds a community with a reason to keep coming back
+- Every answer video is a free demo that drives free trial signups
+- Paid member callouts reward subscribers publicly and signal to others that paying has perks
 
-## Attention Architecture
+**Picking the question:** choose the one that will produce the most interesting or emotionally resonant TanyaTalk response. Deeper questions make better videos. You are the editor of what gets asked -- the comment section nominates, you decide.
 
-How every video is structured to stop the scroll and hold attention through to the end.
+**Format:** screen recording of the TanyaTalk conversation, overlaid with the Day X counter and the question text. No music needed -- the response is the content. Keep it clean and readable.
 
-**The sequence:**
+**Caption formula:** "Day X. [the question asked]. Drop your question for tomorrow below."
 
-1. **Hook frame (0-2 seconds)** -- the most powerful line from the script as text on screen, over a clip that matches the emotional territory of the video. This is the only job of this frame: stop the scroll. No logo. No branding. Just the line and the right footage behind it.
-
-2. **Snap with audio (half second)** -- hard cut to black with a snap sound. Pattern interrupt. Signals that something is about to happen. The audio snap stops people who are scrolling with sound on.
-
-3. **Tanya's voice begins** -- immediately after the black. Voice over relevant footage. Captions synced to the words throughout.
-
-4. **End card** -- spiral + TanyaTalk logo only. No spoken CTA. The caption handles the CTA.
-
-**What the hook frame must do:**
-The first frame is the only thing that determines whether someone watches. It has to make a person stop mid-scroll and think "wait, what is this." Use the sharpest line from the script -- the one that names something they've never heard articulated that clearly. That line goes on screen in the first two seconds over footage that amplifies the feeling.
-
-**What to never do at the start:**
-- Do not open with a logo
-- Do not open with footage that has no emotional context (grass, feet, blurry movement)
-- Do not open with anything that reads as an ad or brand intro
-
-**Location:**
-Use Cleveland, Ohio as the location tag. Not a specific neighborhood. Broad enough that Instagram's algorithm can distribute to the right interest-based audience without being artificially restricted.
-
-**Collaborators:**
-Tag MESH Coaching and @tanyawannemacher as collaborators to extend reach across both accounts.
-
----
-
-## Content Format Notes
-
-- **Voiceover + stock footage + captions** -- current format. Tanya's cloned voice reads the script over relevant footage with synced captions.
-- **POV format** -- open with "POV: [the feeling or moment the script is about]" as text on screen before the voiceover starts. Example: "POV: you finally stopped explaining away that feeling." Creates immediate identification. Strong on Instagram.
-- **Talking head** -- Tanya on camera speaking the script directly. Highest trust and connection. Save for when she is comfortable on camera.
-- **Street interview** -- See full format below.
-- **Daily challenge series** -- See full format below.
-
----
-
-## Music
-
-Peaceful meditation music is correct for the emotional tone. Layer a trending sound at 5-10% volume underneath it when uploading to TikTok and Instagram. The trending sound runs silently in the background and tags your video to that sound's traffic distribution. Keep the meditation music dominant.
-
----
-
-## Engagement
+### Engagement
 
 Reply to every comment on every video. Instagram and TikTok treat replies as engagement signals and push the video further. Even 3 comments replied to signals that the content is generating conversation.
 
 ---
 
-## Cover Image Rule
-
-Each video cover uses a short punchy quote pulled directly from the script -- the emotional core of the video in one line.
-
-- Dark background
-- Spiral subtle in the background
-- Quote in clean white or teal text
-- "TanyaTalk" small at the bottom
-
-The quote should make someone stop scrolling and want to know what comes next. If it could apply to anyone about anything, it's not specific enough.
-
-**6 words maximum.** If it runs longer, cut it until it hits harder.
-
----
-
-## Street Interview Format
+## Script Formula 5 (Street Interview)
 
 Approach strangers and ask them one question: "What's one thing you'd ask a life coach right now if one was standing in front of you?" Type their answer into TanyaTalk live on camera, show them the response, and capture their reaction.
 
@@ -321,28 +333,53 @@ Approach strangers and ask them one question: "What's one thing you'd ask a life
 
 ---
 
-## Daily Challenge Series Format
+## Script Formula 6 (Instagram Stories — Interactive Sequence)
 
-Title: **"Day X of letting you ask TanyaTalk anything until 100K"**
+A 2-story Instagram Story sequence (not a feed post or Reel). Each story is a separate slide posted back to back. Story 1 is the question sticker. Story 2 is Tanya on camera -- she reads the answer, introduces herself briefly, coaches, and closes with the CTA all in one continuous story.
 
-You pick one question from the comment section each day, ask TanyaTalk live, show the response, and post it. 15-30 seconds max. Repeat daily until 100K followers.
+**The sequence:**
 
-**The loop:**
-1. Post the video
-2. Comments flood in with questions for tomorrow
-3. Pick the best one
-4. Ask TanyaTalk, screen record the response
-5. Post it as Day X+1
+**Story 1 — Question**
+Use Instagram's built-in question sticker. Simple text card, no extra context needed.
+Example:
+"What do you do when you feel anxious?"
+[Question box: "I usually ______"]
+
+Wait for responses before posting Story 2. Let people answer so the next piece feels audience-driven, not pre-planned.
+
+**Story 2 — Tanya answers one response**
+Tanya on camera. She reads one submitted answer, introduces herself in one line, delivers the coaching response, then closes with TanyaTalk -- all in a single fluid story. Use Instagram's "React with a Story" feature so the viewer's answer appears as a sticker on screen.
+
+Structure:
+1. Read the answer: name it and make it relatable
+2. One-line intro: "Hi, I'm Tanya, I'm a PCC-certified life coach through the ICF, and I'm here to answer your questions."
+3. Coaching response: real, useful, specific -- not generic
+4. CTA embedded at the end: natural, not salesy
+
+Example script:
+"Okay, someone said when they feel anxious, they start scrolling on social media -- and this is actually something I hear pretty often.
+
+Hi, I'm Tanya, I'm a PCC-certified life coach through the ICF, and I'm here to answer your questions.
+
+When you notice yourself reaching for your phone, I wouldn't immediately tell yourself to stop. I'd get curious first: when you put your phone back down, do you actually feel less anxious, or did scrolling just help you avoid the feeling for a little while?
+
+If it's the second one, ask yourself: what is this anxiety actually trying to get my attention about?
+
+And if you want this same kind of perspective whenever you need it, that's what TanyaTalk is for. Just send an iMessage through the link in my bio."
+
+**Reel — polished version of the best response**
+After the Stories run, turn the best topic into a standalone Reel. More edited, better pacing, broader reach -- Reels go beyond your current followers. The Reel still leads with the actual problem, not TanyaTalk. TanyaTalk is the close, not the hook.
 
 **Why it works:**
-- Shows the product working in real time every single day
-- Comment section drives the content -- viewers are invested because they submitted a question
-- Algorithm rewards the daily comment volume
-- Builds a community with a reason to keep coming back
-- Every video is a free demo of TanyaTalk
+- The question sticker generates real answers and makes the audience feel involved
+- Waiting for responses before posting Story 2 makes it feel live and audience-driven
+- Tanya's answer is the product working in real time
+- The Reel extends the same content to a cold audience without rebuilding from scratch
 
-**Picking the question:** choose the one that will produce the most interesting or emotionally resonant TanyaTalk response. Deeper questions make better videos. You are the editor of what gets asked -- the comment section nominates, you decide.
-
-**Format:** screen recording of the TanyaTalk conversation, overlaid with the Day X counter and the question text. No music needed -- the response is the content. Keep it clean and readable.
-
-**Caption formula:** "Day X. [the question asked]. Drop your question for tomorrow below."
+**Rules:**
+- Post Story 1 and wait -- don't post Story 2 until you have real responses
+- Pick the most emotionally resonant answer, not the most dramatic one
+- Intro is one sentence max -- then immediately into the coaching
+- The coaching must stand alone as genuinely useful advice
+- CTA is the last sentence, woven in as the natural next step -- never tacked on separately
+- The Reel leads with the problem, not TanyaTalk
