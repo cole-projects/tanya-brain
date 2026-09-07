@@ -68,3 +68,5 @@ When you're ready to close out and save, just send **end session**.
 - **Phase context:** Client demonstrating mature parenting by helping son sit with tension rather than solving for him. Modeling how to differentiate between outcome control and personal integrity. This reflects development in own capacity to hold complexity and let others find their own path forward.
 
 <!-- session:finalized -->
+
+<!-- followup:sent {"text": "I'm really struck by that shift you named, how the discord is already there whether he speaks up or stays silent, and I think that's going to change how he shows up in that conversation. Did he end up reaching out to her yet?"} -->
