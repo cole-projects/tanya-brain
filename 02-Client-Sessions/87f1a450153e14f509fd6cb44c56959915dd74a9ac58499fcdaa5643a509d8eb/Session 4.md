@@ -107,3 +107,5 @@ When you picture that being done, what shifts for you internally?
 - **Phase context:** Runway phase in progress. Client actively stabilizing life foundations (home, childcare needs with Myla, predictable income) before scaling business. Clear sequencing mindset: settle home first, then redirect margin to business growth starting January.
 
 <!-- session:finalized -->
+
+<!-- followup:sent {"text": "I'm still thinking about that shift you landed at Carter's and how clear you got about needing those daylight hours with Myla. Did you end up having that conversation with your manager about the 10 to 4 schedule?"} -->
