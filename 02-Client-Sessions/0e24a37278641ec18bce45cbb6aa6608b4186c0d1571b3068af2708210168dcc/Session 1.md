@@ -151,3 +151,5 @@ What feels most true in that for you?
 - **Phase context:** Client in transition phase (college, new living situation) with stated intention for meaningful change. Shows growth in one domain (courage with women) that can transfer to other commitments. Aware of pattern-breaking need but struggles with execution gap between knowledge and action in moment. Responsive to values-aligned messaging and identity-based framing.
 
 <!-- session:finalized -->
+
+<!-- followup:sent {"text": "I've been thinking about that moment you had realizing the quiet decisions are where you actually get built, and how that connected to the courage you've already found with people. Are you staying present in those uncomfortable moments like you talked about doing in the new place?"} -->
