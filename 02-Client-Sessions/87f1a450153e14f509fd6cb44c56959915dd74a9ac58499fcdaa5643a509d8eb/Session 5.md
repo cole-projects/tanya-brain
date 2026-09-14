@@ -66,3 +66,5 @@ What shifts for you when the container feels complete?
 - **Phase context:** Client moving from container-building phase into activation phase. Financial stability (calm plus planned direction) identified as the psychological prerequisite for business building. Nearly at threshold where margin money enables intentional next steps.
 
 <!-- session:finalized -->
+
+<!-- followup:sent {"text": "I'm still thinking about that shift you had when you realized $800/month changes everything about what's possible for you. Did you end up connecting with your loan officer about the timing on your new job start?"} -->
