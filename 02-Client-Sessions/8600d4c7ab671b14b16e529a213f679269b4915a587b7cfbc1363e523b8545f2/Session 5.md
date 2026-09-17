@@ -262,3 +262,5 @@ Whenever something comes up, or you just need to say it out loud before you say 
 - **Phase context:** Client is at threshold of deepening intimacy through vulnerability but nervous system treats trust as danger due to past engagement ending in abandonment and pattern of failed relationships. Ready to move from isolation to selective disclosure with partner. Building gap awareness between trigger and reaction.
 
 <!-- session:finalized -->
+
+<!-- followup:sent {"text": "I keep thinking about that moment when you realized your partner hasn't given up on you, even when things get hard. Have you had a chance to share any of that first piece about the manipulation you mentioned?"} -->
