@@ -172,3 +172,5 @@ Your question still works after a reflection that specific. Want to try one more
 - **Phase context:** Client is in skill-building phase for reflective listening and empathetic inquiry. Moving from situation-level understanding to accessing the emotional and relational costs underneath. Developing precision in language selection and learning to resist the urge to interpret or solve.
 
 <!-- session:finalized -->
+
+<!-- followup:sent {"text": "I was thinking about that moment with the sobriety scenario where you nailed that reflection without any interpretation sneaking in, that shift felt real. What's come up for you since then when you've tried naming the cost instead of just describing what happened?"} -->

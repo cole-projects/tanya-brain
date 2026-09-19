@@ -58,3 +58,5 @@ What do you wish someone understood about what those 25 years actually cost you?
 - **Phase context:** Client in acute emotional crisis (4 AM rumination cycle). Deep grief about sunk costs (25 years) and identity erosion. Likely in early recognition phase of post-separation rebuild, struggling with worthiness questions and survival anxiety (money). Needs grounding in present + reframing of those 25 years beyond loss narrative.
 
 <!-- session:finalized -->
+
+<!-- followup:sent {"text": "I've been thinking about what you said about 4 AM being the loneliest place to be, caught between exhaustion and that racing mind. Have you had a chance to try any of those breathing techniques we talked about, or is the insomnia still winning those nights?"} -->
