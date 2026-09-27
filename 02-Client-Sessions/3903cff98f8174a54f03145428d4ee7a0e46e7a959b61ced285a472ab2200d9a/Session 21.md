@@ -86,3 +86,5 @@ The reflection names what's actually happening, she's internalizing their verdic
 - **Phase context:** Client is deepening coaching skills in reflective listening, moving from adequate responses to more precise identity-focused work. Pattern shows readiness to absorb feedback and iterate quickly across examples.
 
 <!-- session:finalized -->
+
+<!-- followup:sent {"text": "I loved watching your instinct sharpen across those three rounds, especially when you caught that identity belief hiding underneath what seemed like a situational problem. Did you end up practicing with that reflection format on your own since we talked?"} -->
