@@ -33,6 +33,9 @@ Articles, books, tools, and references. See [[03-Resources]] for full contents.
 ### [[04-Content|Content]]
 Social media posts, newsletters, and email drafts.
 
+### [[05-Marketing-Strategy|Marketing Strategy]]
+Organic vs. paid content philosophy, the six organic content pillars, cross-posting rules for Mesh Coaching, paid ad structure, and the full funnel from organic to subscription.
+
 ### [[06-Scripts|Instagram Scripts]]
 Ready-to-use video scripts organized by topic.
 
