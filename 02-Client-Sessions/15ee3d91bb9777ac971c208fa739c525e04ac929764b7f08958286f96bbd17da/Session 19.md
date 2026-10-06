@@ -68,3 +68,5 @@ The question I'd bring back to your friend then, does he believe that's possible
 - **Phase context:** Client appears to be in integration phase, having resolved their own internal conflict between security and passion through deliberate practice and process-love. Coach acknowledged this as a "third thing entirely" beyond the two presented positions. Follow-up should explore whether client wants to help friend navigate the same dissolution or needs to clarify their own hidden detailed plan.
 
 <!-- session:finalized -->
+
+<!-- followup:sent {"text": "I've been thinking about what you said about accidentally falling in love with the process itself, not because you wanted to but because that's what you were taught to want. That stuck with me. Are you starting to see how that might actually be different from what your friend is wrestling with?"} -->
