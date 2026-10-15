@@ -222,3 +222,5 @@ Goodnight. 🤍
 - **Phase context:** Client in acute trauma response (rape case legal waiting) with dissociative symptoms masking underlying suicidality. High isolation. Critical window between now and Wednesday therapy start. Music-making suggests creative processing capacity when nervous system stabilizes. Self-awareness about relief fantasies vs reality is protective factor.
 
 <!-- session:finalized -->
+
+<!-- followup:sent {"text": "I've been thinking about that moment when you said music still matters to you, even through all this fog, that stuck with me. Have you had any moments to play since we talked, even just for a few minutes?"} -->
